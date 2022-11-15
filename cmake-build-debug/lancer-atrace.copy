@@ -1,0 +1,3339 @@
+512|TRACE_START|1595085322123773|13682|2147483647|2|18316
+1595085.330390: B|13682|VerifyClass com.bomber.lancer.Lancer$SystraceReflector
+1595085.330539: E|13682
+1595085.330814: B|13682|B:LancerApp:attachBaseContext
+1595085.330849: B|13682|E:LancerApp:attachBaseContext
+1595085.331138: E|13682
+1595085.331172: B|13682|transact[android.content.pm.IPackageManager:3]
+1595085.331426: B|13682|VerifyClass androidx.startup.InitializationProvider
+1595085.331548: E|13682
+1595085.331762: B|13682|VerifyClass androidx.startup.AppInitializer
+1595085.332045: E|13682
+1595085.332155: E|13682
+1595085.332196: B|13682|VerifyClass androidx.tracing.Trace
+1595085.332415: E|13682
+1595085.332430: B|13682|VerifyClass androidx.tracing.TraceApi18Impl
+1595085.332442: E|13682
+1595085.332450: B|13682|Startup
+1595085.332582: B|13682|JIT compiling int android.os.Parcel.readInt()
+1595085.332593: B|13682|Compiling
+1595085.332618: B|13682|transact[android.content.pm.IPackageManager:18]
+1595085.332805: E|13682
+1595085.332944: B|13682|VerifyClass androidx.startup.R$string
+1595085.332945: B|13682|ScopedCodeCacheWrite
+1595085.332953: B|13682|mprotect all
+1595085.332958: E|13682
+1595085.332963: E|13682
+1595085.332971: B|13682|mprotect code
+1595085.332976: E|13682
+1595085.332978: E|13682
+1595085.332984: B|13682|Generate JIT debug info
+1595085.333010: E|13682
+1595085.333024: E|13682
+1595085.333028: B|13682|TrimMaps
+1595085.333032: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.333046: E|13682
+1595085.333049: E|13682
+1595085.333052: E|13682
+1595085.333208: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer
+1595085.333380: B|13682|transact[android.content.pm.IPackageManager:3]
+1595085.333497: E|13682
+1595085.333563: B|13682|EmojiCompatInitializer
+1595085.333661: B|13682|ProcessLifecycleInitializer
+1595085.333680: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleInitializer
+1595085.333688: E|13682
+1595085.333752: E|13682
+1595085.333769: B|13682|VerifyClass androidx.lifecycle.LifecycleDispatcher
+1595085.333936: E|13682
+1595085.333960: B|13682|VerifyClass androidx.lifecycle.EmptyActivityLifecycleCallbacks
+1595085.333976: E|13682
+1595085.333982: B|13682|VerifyClass androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+1595085.334081: E|13682
+1595085.334107: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleOwner
+1595085.334362: E|13682
+1595085.334376: B|13682|VerifyClass androidx.lifecycle.Lifecycle
+1595085.334394: E|13682
+1595085.334398: B|13682|VerifyClass androidx.lifecycle.LifecycleRegistry
+1595085.334793: E|13682
+1595085.334816: B|13682|VerifyClass androidx.arch.core.internal.SafeIterableMap
+1595085.335025: E|13682
+1595085.335034: B|13682|VerifyClass androidx.arch.core.internal.FastSafeIterableMap
+1595085.335068: E|13682
+1595085.335105: B|13682|VerifyClass androidx.lifecycle.Lifecycle$State
+1595085.335147: E|13682
+1595085.335181: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleOwner$1
+1595085.335196: E|13682
+1595085.335203: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleOwner$2
+1595085.335215: E|13682
+1595085.335238: B|13682|VerifyClass androidx.lifecycle.Lifecycle$Event
+1595085.335327: E|13682
+1595085.335373: B|13682|VerifyClass androidx.arch.core.executor.TaskExecutor
+1595085.335387: E|13682
+1595085.335392: B|13682|VerifyClass androidx.arch.core.executor.ArchTaskExecutor
+1595085.335493: E|13682
+1595085.335503: B|13682|VerifyClass androidx.arch.core.executor.ArchTaskExecutor$1
+1595085.335511: E|13682
+1595085.335518: B|13682|VerifyClass androidx.arch.core.executor.ArchTaskExecutor$2
+1595085.335525: E|13682
+1595085.335533: B|13682|VerifyClass androidx.arch.core.executor.DefaultTaskExecutor
+1595085.335564: B|13682|transact[android.content.pm.IPackageManager:3]
+1595085.335663: E|13682
+1595085.335674: B|13682|VerifyClass androidx.arch.core.executor.DefaultTaskExecutor$1
+1595085.335708: E|13682
+1595085.335801: B|13682|VerifyClass androidx.lifecycle.Lifecycle$1
+1595085.335825: E|13682
+1595085.335914: E|13682
+1595085.335941: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleOwner$3
+1595085.336034: E|13682
+1595085.336069: E|13682
+1595085.336078: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$Config
+1595085.336305: E|13682
+1595085.336315: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$BackgroundDefaultConfig
+1595085.336348: E|13682
+1595085.336357: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$BackgroundDefaultLoader
+1595085.336480: E|13682
+1595085.336494: B|13682|VerifyClass androidx.emoji2.text.EmojiProcessor$DefaultGlyphChecker
+1595085.336488: B|13682|transact[android.content.pm.IPackageManager:5]
+1595085.336635: E|13682
+1595085.336798: B|13682|VerifyClass androidx.core.util.Preconditions
+1595085.336945: E|13682
+1595085.336955: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat
+1595085.337394: E|13682
+1595085.337471: B|13682|VerifyClass androidx.collection.ArraySet
+1595085.337778: E|13682
+1595085.337846: E|13682
+1595085.337890: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$CompatInternal
+1595085.337912: E|13682
+1595085.337918: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$CompatInternal19
+1595085.338120: E|13682
+1595085.338203: B|13682|ProcessLifecycleInitializer
+1595085.338219: E|13682
+1595085.338228: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$1
+1595085.338283: E|13682
+1595085.338307: B|13682|VerifyClass androidx.lifecycle.LifecycleRegistry$ObserverWithState
+1595085.338359: E|13682
+1595085.338367: B|13682|VerifyClass androidx.lifecycle.Lifecycling
+1595085.338696: E|13682
+1595085.338712: B|13682|VerifyClass androidx.lifecycle.FullLifecycleObserverAdapter
+1595085.338759: E|13682
+1595085.338775: B|13682|VerifyClass androidx.arch.core.internal.SafeIterableMap$Entry
+1595085.338811: E|13682
+1595085.338847: B|13682|VerifyClass androidx.lifecycle.FullLifecycleObserverAdapter$1
+1595085.338888: E|13682
+1595085.338902: B|13682|VerifyClass androidx.lifecycle.DefaultLifecycleObserver$-CC
+1595085.338911: E|13682
+1595085.338937: E|13682
+1595085.338994: B|13682|ProcessLifecycleInitializer
+1595085.339004: E|13682
+1595085.339009: E|13682
+1595085.339497: B|13682|transact[android.app.IActivityManager:21]
+1595085.340132: E|13682
+1595085.340188: B|13682|B:LancerApp:onCreate
+1595085.342530: B|13682|AttachCurrentThread
+1595085.342548: B|13682|Thread::Attach
+1595085.342551: B|13682|Thread birth
+1595085.342564: B|13682|Thread::Init
+1595085.342569: B|13682|InitStackHwm
+1595085.342583: E|13682
+1595085.342586: B|13682|InitTlsEntryPoints
+1595085.342591: E|13682
+1595085.342594: B|13682|InitInterpreterTls
+1595085.342597: E|13682
+1595085.342619: B|13682|ThreadList::Register
+1595085.342628: E|13682
+1595085.342631: E|13682
+1595085.342634: E|13682
+1595085.342690: E|13682
+1595085.342700: E|13682
+1595085.343720: B|13682|Thread::Init
+1595085.343762: B|13682|InitStackHwm
+1595085.343795: E|13682
+1595085.343852: B|13682|InitTlsEntryPoints
+1595085.343864: E|13682
+1595085.343872: B|13682|InitInterpreterTls
+1595085.343995: E|13682
+1595085.344005: B|13682|ThreadList::Register
+1595085.344038: E|13682
+1595085.344045: E|13682
+1595085.344577: B|13682|transact[android.content.pm.IPackageManager:68]
+1595085.344723: E|13682
+1595085.344862: B|13682|Lock contention on InternTable lock (owner tid: 13739)
+1595085.344881: E|13682
+1595085.640434: B|13682|E:LancerApp:onCreate
+1595085.642361: B|13682|tryToUpdateVariableFonts
+1595085.642583: E|13682
+1595085.642765: B|13682|transact[android.content.pm.IPackageManager:13]
+1595085.643082: E|13682
+1595085.643329: E|13682
+1595085.643985: B|13682|activityStart
+1595085.644890: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.645009: E|13682
+1595085.645213: B|13682|ResourcesImpl#updateConfiguration
+1595085.645372: B|13682|AssetManager::SetConfiguration
+1595085.645398: E|13682
+1595085.645421: E|13682
+1595085.645515: B|13682|Theme::ApplyStyle
+1595085.645564: E|13682
+1595085.645800: B|13682|ResourcesManager#getResources
+1595085.645968: B|13682|AssetManager::SetApkAssets
+1595085.646691: E|13682
+1595085.646819: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.647049: E|13682
+1595085.647340: B|13682|ResourcesImpl#updateConfiguration
+1595085.647559: B|13682|AssetManager::SetConfiguration
+1595085.648110: E|13682
+1595085.648148: E|13682
+1595085.648219: E|13682
+1595085.648311: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.648548: E|13682
+1595085.648772: B|13682|Theme::ApplyStyle
+1595085.648816: E|13682
+1595085.648907: B|13682|ResourcesManager#applyConfigurationToResourcesLocked
+1595085.648921: E|13682
+1595085.649558: B|13682|transact[android.view.IWindowManager:37]
+1595085.649526: B|13682|AttachCurrentThread
+1595085.649587: B|13682|Thread::Attach
+1595085.649613: B|13682|Thread birth
+1595085.649646: B|13682|Thread::Init
+1595085.649668: B|13682|InitStackHwm
+1595085.649709: E|13682
+1595085.649728: B|13682|InitTlsEntryPoints
+1595085.649752: E|13682
+1595085.649771: B|13682|InitInterpreterTls
+1595085.649789: E|13682
+1595085.649865: B|13682|ThreadList::Register
+1595085.649902: E|13682
+1595085.649910: E|13682
+1595085.649917: E|13682
+1595085.650079: E|13682
+1595085.650142: E|13682
+1595085.653836: B|13682|eglGetDisplay
+1595085.653975: B|13682|open
+1595085.654004: E|13682
+1595085.654193: B|13682|getPlatformDisplay
+1595085.654228: E|13682
+1595085.654235: E|13682
+1595085.734883: E|13682
+1595085.735003: B|13682|hintActivityLaunch
+1595085.735097: E|13682
+1595085.735221: B|13682|sendGpuStatsLocked
+1595085.735333: B|13682|transact[:1]
+1595085.735552: E|13682
+1595085.735957: B|13682|transact[android.app.IActivityTaskManager:47]
+1595085.736142: E|13682
+1595085.736585: E|13682
+1595085.736743: B|13682|ResourcesManager#createBaseActivityResources
+1595085.736942: B|13682|ResourcesManager#updateResourcesForActivity
+1595085.736984: E|13682
+1595085.737093: B|13682|AssetManager::SetApkAssets
+1595085.737540: E|13682
+1595085.737651: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.737904: E|13682
+1595085.738100: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.738240: E|13682
+1595085.738456: B|13682|ResourcesImpl#updateConfiguration
+1595085.738630: B|13682|AssetManager::SetConfiguration
+1595085.739169: E|13682
+1595085.739216: E|13682
+1595085.739295: E|13682
+1595085.739369: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.739509: E|13682
+1595085.741020: B|13682|VerifyClass androidx.core.app.ComponentActivity
+1595085.741302: E|13682
+1595085.741329: B|13682|VerifyClass androidx.activity.ComponentActivity
+1595085.742206: E|13682
+1595085.742303: B|13682|VerifyClass androidx.fragment.app.FragmentActivity
+1595085.743164: E|13682
+1595085.743197: B|13682|VerifyClass androidx.appcompat.app.AppCompatActivity
+1595085.744653: E|13682
+1595085.744700: B|13682|VerifyClass com.bomber.strace.MainActivity
+1595085.745333: E|13682
+1595085.745551: B|13682|VerifyClass com.bomber.strace.MainActivity$Companion
+1595085.745571: E|13682
+1595085.746634: B|13682|VerifyClass androidx.collection.SimpleArrayMap
+1595085.747069: E|13682
+1595085.747149: B|13682|VerifyClass androidx.collection.ContainerHelpers
+1595085.747215: E|13682
+1595085.747266: B|13682|VerifyClass androidx.activity.contextaware.ContextAwareHelper
+1595085.747321: E|13682
+1595085.747347: B|13682|VerifyClass androidx.savedstate.SavedStateRegistryController
+1595085.747480: E|13682
+1595085.747511: B|13682|VerifyClass androidx.savedstate.SavedStateRegistry
+1595085.747700: E|13682
+1595085.747757: B|13682|VerifyClass androidx.activity.OnBackPressedDispatcher
+1595085.747966: E|13682
+1595085.747990: B|13682|VerifyClass androidx.activity.ComponentActivity$1
+1595085.748020: E|13682
+1595085.748077: B|13682|VerifyClass androidx.activity.result.ActivityResultRegistry
+1595085.749087: E|13682
+1595085.749122: B|13682|VerifyClass androidx.activity.ComponentActivity$2
+1595085.749414: E|13682
+1595085.749549: B|13682|VerifyClass androidx.activity.ComponentActivity$3
+1595085.749621: E|13682
+1595085.749713: B|13682|VerifyClass androidx.activity.ComponentActivity$4
+1595085.749756: E|13682
+1595085.749784: B|13682|VerifyClass androidx.activity.ComponentActivity$5
+1595085.749799: E|13682
+1595085.749817: B|13682|VerifyClass androidx.activity.ComponentActivity$6
+1595085.749832: E|13682
+1595085.749840: B|13682|VerifyClass androidx.activity.ComponentActivity$7
+1595085.749861: E|13682
+1595085.749896: B|13682|VerifyClass androidx.fragment.app.FragmentContainer
+1595085.749968: E|13682
+1595085.749975: B|13682|VerifyClass androidx.fragment.app.FragmentHostCallback
+1595085.750122: E|13682
+1595085.750140: B|13682|VerifyClass androidx.fragment.app.FragmentActivity$HostCallbacks
+1595085.750258: E|13682
+1595085.750295: B|13682|VerifyClass androidx.fragment.app.FragmentManager
+1595085.754600: E|13682
+1595085.754658: B|13682|VerifyClass androidx.fragment.app.FragmentManagerImpl
+1595085.754668: E|13682
+1595085.754722: B|13682|VerifyClass androidx.fragment.app.FragmentStore
+1595085.755044: E|13682
+1595085.755076: B|13682|VerifyClass androidx.fragment.app.FragmentLayoutInflaterFactory
+1595085.755428: E|13682
+1595085.755461: B|13682|VerifyClass androidx.activity.OnBackPressedCallback
+1595085.755497: E|13682
+1595085.755513: B|13682|VerifyClass androidx.fragment.app.FragmentManager$1
+1595085.755584: E|13682
+1595085.755614: B|13682|VerifyClass androidx.fragment.app.FragmentManager$2
+1595085.755635: E|13682
+1595085.755647: B|13682|VerifyClass androidx.fragment.app.FragmentLifecycleCallbacksDispatcher
+1595085.755852: E|13682
+1595085.755897: B|13682|VerifyClass androidx.fragment.app.FragmentFactory
+1595085.756014: E|13682
+1595085.756033: B|13682|VerifyClass androidx.fragment.app.FragmentManager$3
+1595085.756049: E|13682
+1595085.756066: B|13682|VerifyClass androidx.fragment.app.FragmentManager$4
+1595085.756128: E|13682
+1595085.756169: B|13682|VerifyClass androidx.fragment.app.FragmentManager$5
+1595085.756182: E|13682
+1595085.756209: B|13682|VerifyClass androidx.fragment.app.FragmentController
+1595085.756390: E|13682
+1595085.756440: B|13682|VerifyClass androidx.fragment.app.FragmentActivity$1
+1595085.756497: E|13682
+1595085.756517: B|13682|VerifyClass androidx.fragment.app.FragmentActivity$2
+1595085.756540: E|13682
+1595085.756570: B|13682|VerifyClass androidx.appcompat.app.AppCompatActivity$1
+1595085.756584: E|13682
+1595085.756594: B|13682|VerifyClass androidx.appcompat.app.AppCompatActivity$2
+1595085.756606: E|13682
+1595085.756866: B|13682|ResourcesManager#getResources
+1595085.757011: E|13682
+1595085.757213: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegate
+1595085.757523: E|13682
+1595085.757569: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl
+1595085.763550: E|13682
+1595085.763653: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$2
+1595085.763691: E|13682
+1595085.763726: B|13682|VerifyClass androidx.appcompat.widget.AppCompatDrawableManager
+1595085.763968: E|13682
+1595085.764011: B|13682|VerifyClass androidx.appcompat.widget.ResourceManagerInternal
+1595085.764826: E|13682
+1595085.764898: B|13682|VerifyClass androidx.collection.LruCache
+1595085.765097: E|13682
+1595085.765115: B|13682|VerifyClass androidx.appcompat.widget.ResourceManagerInternal$ColorFilterLruCache
+1595085.765137: E|13682
+1595085.765168: B|13682|VerifyClass androidx.appcompat.widget.AppCompatDrawableManager$1
+1595085.765744: E|13682
+1595085.765810: B|13682|VerifyClass androidx.appcompat.R$drawable
+1595085.765869: E|13682
+1595085.765932: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$Api17Impl
+1595085.765960: E|13682
+1595085.766110: B|13682|ResourcesManager#getResources
+1595085.766329: B|13682|AssetManager::SetApkAssets
+1595085.766927: E|13682
+1595085.767084: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.767292: E|13682
+1595085.767461: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.767623: E|13682
+1595085.767871: B|13682|ResourcesImpl#updateConfiguration
+1595085.768089: B|13682|AssetManager::SetConfiguration
+1595085.768662: E|13682
+1595085.768701: E|13682
+1595085.768813: E|13682
+1595085.768911: B|13682|VerifyClass androidx.appcompat.view.ContextThemeWrapper
+1595085.769092: E|13682
+1595085.769114: B|13682|VerifyClass androidx.appcompat.R$style
+1595085.769128: E|13682
+1595085.769571: B|13682|VerifyClass androidx.appcompat.widget.ResourcesWrapper
+1595085.769923: E|13682
+1595085.769945: B|13682|VerifyClass androidx.appcompat.widget.VectorEnabledTintResources
+1595085.770070: E|13682
+1595085.770242: B|13682|ResourcesManager#getResources
+1595085.770474: B|13682|AssetManager::SetApkAssets
+1595085.771032: E|13682
+1595085.771190: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.771481: E|13682
+1595085.771745: B|13682|ResourcesImpl#updateConfiguration
+1595085.771937: B|13682|AssetManager::SetConfiguration
+1595085.772528: E|13682
+1595085.772576: E|13682
+1595085.772655: E|13682
+1595085.773438: B|13682|transact[android.app.IActivityManager:20]
+1595085.774156: E|13682
+1595085.774984: B|13682|transact[android.content.IContentProvider:21]
+1595085.775275: E|13682
+1595085.776542: B|13682|transact[android.content.pm.IPackageManager:109]
+1595085.776736: E|13682
+1595085.777171: B|13682|Theme::ApplyStyle
+1595085.777261: E|13682
+1595085.777345: B|13682|Theme::ApplyStyle
+1595085.777377: E|13682
+1595085.777436: B|13682|Theme::ApplyStyle
+1595085.777735: E|13682
+1595085.778238: B|13682|HwResourcesImpl#inflateFwkResForAll
+1595085.778516: E|13682
+1595085.778749: B|13682|transact[android.app.IActivityTaskManager:66]
+1595085.779113: E|13682
+1595085.779349: B|13682|VerifyClass androidx.lifecycle.ProcessLifecycleOwner$3$1
+1595085.779406: E|13682
+1595085.779495: B|13682|B:MainActivity:onCreate
+1595085.779518: B|13682|VerifyClass androidx.savedstate.Recreator
+1595085.779710: E|13682
+1595085.779810: B|13682|VerifyClass androidx.savedstate.SavedStateRegistry$1
+1595085.779841: E|13682
+1595085.779960: B|13682|VerifyClass androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+1595085.780008: E|13682
+1595085.780068: B|13682|VerifyClass androidx.lifecycle.ViewModelStore
+1595085.780119: E|13682
+1595085.780134: B|13682|VerifyClass androidx.lifecycle.ViewModel
+1595085.780217: E|13682
+1595085.780229: B|13682|VerifyClass androidx.fragment.app.FragmentManagerViewModel
+1595085.780549: E|13682
+1595085.780577: B|13682|VerifyClass androidx.fragment.app.FragmentManagerViewModel$1
+1595085.780589: E|13682
+1595085.780598: B|13682|VerifyClass androidx.lifecycle.ViewModelProvider
+1595085.780689: E|13682
+1595085.780805: B|13682|VerifyClass androidx.activity.result.contract.ActivityResultContract
+1595085.780831: E|13682
+1595085.780836: B|13682|VerifyClass androidx.activity.result.contract.ActivityResultContracts$StartActivityForResult
+1595085.780857: E|13682
+1595085.780877: B|13682|VerifyClass androidx.fragment.app.FragmentManager$9
+1595085.780926: E|13682
+1595085.780976: B|13682|VerifyClass androidx.activity.result.ActivityResultRegistry$CallbackAndContract
+1595085.780994: E|13682
+1595085.781023: B|13682|VerifyClass androidx.activity.result.ActivityResultLauncher
+1595085.781042: E|13682
+1595085.781051: B|13682|VerifyClass androidx.activity.result.ActivityResultRegistry$3
+1595085.781086: E|13682
+1595085.781119: B|13682|VerifyClass androidx.fragment.app.FragmentManager$FragmentIntentSenderContract
+1595085.781206: E|13682
+1595085.781222: B|13682|VerifyClass androidx.fragment.app.FragmentManager$10
+1595085.781253: E|13682
+1595085.781297: B|13682|VerifyClass androidx.activity.result.contract.ActivityResultContracts$RequestMultiplePermissions
+1595085.781557: E|13682
+1595085.781593: B|13682|VerifyClass androidx.fragment.app.FragmentManager$11
+1595085.781659: E|13682
+1595085.781749: B|13682|VerifyClass androidx.core.view.LayoutInflaterCompat
+1595085.781900: E|13682
+1595085.782057: B|13682|transact[android.content.pm.IPackageManager:14]
+1595085.782286: E|13682
+1595085.782504: B|13682|VerifyClass androidx.appcompat.view.WindowCallbackWrapper
+1595085.782668: E|13682
+1595085.782683: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$AppCompatWindowCallback
+1595085.782857: E|13682
+1595085.782899: B|13682|VerifyClass androidx.appcompat.widget.TintTypedArray
+1595085.783133: E|13682
+1595085.783235: B|13682|VerifyClass androidx.appcompat.resources.R$drawable
+1595085.783254: E|13682
+1595085.783349: B|13682|VerifyClass androidx.core.content.ContextCompat
+1595085.783792: E|13682
+1595085.783825: B|13682|VerifyClass androidx.core.content.ContextCompat$Api21Impl
+1595085.783847: E|13682
+1595085.784101: B|13682|res/drawable/abc_vector_test.xml
+1595085.784195: B|13682|AssetManager::OpenXmlAsset(res/drawable/abc_vector_test.xml)
+1595085.784340: E|13682
+1595085.784625: B|13682|VectorDrawable#inflate
+1595085.785357: E|13682
+1595085.785392: E|13682
+1595085.785517: B|13682|VerifyClass androidx.appcompat.widget.DrawableUtils
+1595085.785888: E|13682
+1595085.786141: B|13682|VerifyClass androidx.core.app.NavUtils
+1595085.786410: E|13682
+1595085.786525: B|13682|transact[android.content.pm.IPackageManager:14]
+1595085.786739: E|13682
+1595085.786894: B|13682|VerifyClass androidx.collection.MapCollections
+1595085.787199: E|13682
+1595085.787220: B|13682|VerifyClass androidx.collection.ArraySet$1
+1595085.787258: E|13682
+1595085.787275: B|13682|VerifyClass androidx.collection.MapCollections$KeySet
+1595085.787380: E|13682
+1595085.787425: B|13682|VerifyClass androidx.collection.MapCollections$ArrayIterator
+1595085.787473: E|13682
+1595085.787657: B|13682|VerifyClass androidx.lifecycle.ReportFragment
+1595085.787867: E|13682
+1595085.787930: B|13682|VerifyClass androidx.lifecycle.ReportFragment$LifecycleCallbacks
+1595085.787974: E|13682
+1595085.788378: B|13682|VerifyClass androidx.arch.core.internal.SafeIterableMap$IteratorWithAdditions
+1595085.788432: E|13682
+1595085.788697: B|13682|transact[android.content.pm.IPackageManager:170]
+1595085.788873: E|13682
+1595085.789011: B|13682|transact[android.app.IActivityTaskManager:67]
+1595085.789151: E|13682
+1595085.789902: B|13682|transact[:1]
+1595085.790013: E|13682
+1595085.790542: B|13682|transact[android.app.IActivityTaskManager:1]
+1595085.800252: E|13682
+1595085.800596: B|13682|VerifyClass com.bomber.strace.databinding.ActivityMainBinding
+1595085.800599: B|13682|JIT compiling void java.lang.String.getChars(int, int, char[], int)
+1595085.800625: B|13682|Compiling
+1595085.800830: E|13682
+1595085.800889: B|13682|B:ActivityMainBinding:inflate
+1595085.800899: B|13682|B:ActivityMainBinding:inflate
+1595085.801209: B|13682|AssetManager::OpenAsset(huawei_plume/meta_info.json)
+1595085.801305: E|13682
+1595085.801436: B|13682|AssetManager::OpenXmlAsset(res/layout/activity_main.xml)
+1595085.801531: E|13682
+1595085.801580: B|13682|inflate
+1595085.801606: B|13682|Inflate Message Send
+1595085.801630: E|13682
+1595085.801787: B|13682|VerifyClass androidx.appcompat.R$styleable
+1595085.801891: E|13682
+1595085.802169: B|13682|ScopedCodeCacheWrite
+1595085.802184: B|13682|mprotect all
+1595085.802205: E|13682
+1595085.802221: B|13682|mprotect code
+1595085.802233: E|13682
+1595085.802239: E|13682
+1595085.802257: B|13682|Generate JIT debug info
+1595085.802259: B|13682|Lock contention on CHA lock (owner tid: 13692)
+1595085.802269: E|13682
+1595085.802301: B|13682|VerifyClass androidx.appcompat.app.AppCompatViewInflater
+1595085.802331: E|13682
+1595085.802378: E|13682
+1595085.802388: B|13682|TrimMaps
+1595085.802394: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.802478: E|13682
+1595085.802489: E|13682
+1595085.802500: E|13682
+1595085.806128: E|13682
+1595085.806175: B|13682|VerifyClass com.google.android.material.theme.MaterialComponentsViewInflater
+1595085.807151: E|13682
+1595085.807411: B|13682|androidx.constraintlayout.widget.ConstraintLayout
+1595085.807514: B|13682|VerifyClass androidx.constraintlayout.widget.ConstraintLayout
+1595085.810744: E|13682
+1595085.811374: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595085.811544: E|13682
+1595085.811699: B|13682|JIT compiling java.lang.String android.os.Parcel$ReadWriteHelper.readString(android.os.Parcel)
+1595085.811741: B|13682|Compiling
+1595085.811870: B|13682|transact[android.view.IWindowManager:65]
+1595085.812120: E|13682
+1595085.812233: B|13682|ScopedCodeCacheWrite
+1595085.812253: B|13682|mprotect all
+1595085.812268: E|13682
+1595085.812276: B|13682|mprotect code
+1595085.812302: E|13682
+1595085.812306: E|13682
+1595085.812313: B|13682|Generate JIT debug info
+1595085.812346: E|13682
+1595085.812361: E|13682
+1595085.812366: B|13682|TrimMaps
+1595085.812371: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.812390: E|13682
+1595085.812395: E|13682
+1595085.812399: E|13682
+1595085.813079: B|13682|transact[android.app.IActivityManager:42]
+1595085.813302: E|13682
+1595085.813383: B|13682|transact[android.app.IActivityManager:42]
+1595085.813534: E|13682
+1595085.813842: B|13682|transact[android.view.accessibility.IAccessibilityManager:3]
+1595085.814411: E|13682
+1595085.814476: B|13682|transact[android.view.accessibility.IAccessibilityManager:19]
+1595085.814602: E|13682
+1595085.815234: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintWidget
+1595085.820668: E|13682
+1595085.820716: B|13682|VerifyClass androidx.constraintlayout.core.widgets.WidgetContainer
+1595085.820802: E|13682
+1595085.820817: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintWidgetContainer
+1595085.822115: E|13682
+1595085.822177: B|13682|VerifyClass androidx.constraintlayout.core.state.WidgetFrame
+1595085.823260: E|13682
+1595085.823319: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintAnchor
+1595085.823613: E|13682
+1595085.823640: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintAnchor$Type
+1595085.823688: E|13682
+1595085.823762: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintWidget$DimensionBehaviour
+1595085.823798: E|13682
+1595085.823852: B|13682|VerifyClass androidx.constraintlayout.core.widgets.analyzer.BasicMeasure
+1595085.824607: E|13682
+1595085.824640: B|13682|VerifyClass androidx.constraintlayout.core.widgets.analyzer.BasicMeasure$Measure
+1595085.824657: E|13682
+1595085.824669: B|13682|VerifyClass androidx.constraintlayout.core.widgets.analyzer.DependencyGraph
+1595085.825766: E|13682
+1595085.825816: B|13682|VerifyClass androidx.constraintlayout.core.LinearSystem
+1595085.826929: E|13682
+1595085.826984: B|13682|VerifyClass androidx.constraintlayout.core.Cache
+1595085.827047: E|13682
+1595085.827093: B|13682|VerifyClass androidx.constraintlayout.core.Pools$SimplePool
+1595085.827133: E|13682
+1595085.827141: B|13682|VerifyClass androidx.constraintlayout.core.ArrayRow
+1595085.827592: E|13682
+1595085.827611: B|13682|VerifyClass androidx.constraintlayout.core.PriorityGoalRow
+1595085.827812: E|13682
+1595085.827839: B|13682|VerifyClass androidx.constraintlayout.core.ArrayLinkedVariables
+1595085.828227: E|13682
+1595085.828254: B|13682|VerifyClass androidx.constraintlayout.core.PriorityGoalRow$GoalVariableAccessor
+1595085.828368: E|13682
+1595085.828428: B|13682|VerifyClass androidx.constraintlayout.widget.ConstraintLayout$Measurer
+1595085.829358: E|13682
+1595085.829462: B|13682|VerifyClass androidx.constraintlayout.widget.R$styleable
+1595085.829634: E|13682
+1595085.829899: E|13682
+1595085.830037: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextView
+1595085.830929: E|13682
+1595085.830960: B|13682|VerifyClass com.google.android.material.textview.MaterialTextView
+1595085.831686: E|13682
+1595085.831772: B|13682|VerifyClass com.google.android.material.theme.overlay.MaterialThemeOverlay
+1595085.831830: E|13682
+1595085.831848: B|13682|VerifyClass com.google.android.material.R$attr
+1595085.831858: E|13682
+1595085.832038: B|13682|VerifyClass androidx.appcompat.widget.TintContextWrapper
+1595085.832243: E|13682
+1595085.833313: B|13682|res/color/highlighted_text_material.xml
+1595085.833379: B|13682|AssetManager::OpenXmlAsset(res/color/highlighted_text_material.xml)
+1595085.833470: E|13682
+1595085.833746: E|13682
+1595085.833875: B|13682|res/color/hint_foreground_material_light.xml
+1595085.833898: B|13682|AssetManager::OpenXmlAsset(res/color/hint_foreground_material_light.xml)
+1595085.833960: E|13682
+1595085.834158: E|13682
+1595085.834637: B|13682|VerifyClass androidx.appcompat.widget.AppCompatEmojiTextHelper
+1595085.834878: E|13682
+1595085.834909: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiTextViewHelper
+1595085.835046: E|13682
+1595085.835076: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiTextViewHelper$HelperInternal
+1595085.835097: E|13682
+1595085.835106: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiTextViewHelper$SkippingHelper19
+1595085.835151: E|13682
+1595085.835159: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiTextViewHelper$HelperInternal19
+1595085.835369: E|13682
+1595085.835392: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiInputFilter
+1595085.835559: E|13682
+1595085.835682: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$InitCallback
+1595085.835710: E|13682
+1595085.835717: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiInputFilter$InitCallbackImpl
+1595085.835838: E|13682
+1595085.836157: B|13682|VerifyClass androidx.appcompat.widget.ThemeUtils
+1595085.836351: E|13682
+1595085.836561: B|13682|VerifyClass androidx.appcompat.widget.AppCompatBackgroundHelper
+1595085.836734: E|13682
+1595085.836800: B|13682|VerifyClass androidx.core.view.ViewCompat
+1595085.839748: E|13682
+1595085.839833: B|13682|VerifyClass androidx.core.R$id
+1595085.839918: E|13682
+1595085.839933: B|13682|VerifyClass androidx.core.view.ViewCompat$$ExternalSyntheticLambda0
+1595085.839956: E|13682
+1595085.839969: B|13682|VerifyClass androidx.core.view.ViewCompat$AccessibilityPaneVisibilityManager
+1595085.840100: E|13682
+1595085.840147: B|13682|VerifyClass androidx.core.view.ViewCompat$Api29Impl
+1595085.840233: E|13682
+1595085.840313: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextHelper
+1595085.841250: E|13682
+1595085.841296: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper
+1595085.842277: E|13682
+1595085.842356: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl
+1595085.842384: E|13682
+1595085.842389: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl23
+1595085.842422: E|13682
+1595085.842470: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29
+1595085.842496: E|13682
+1595085.842655: B|13682|VerifyClass androidx.core.content.res.ResourcesCompat$FontCallback
+1595085.842789: E|13682
+1595085.842809: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextHelper$1
+1595085.842838: E|13682
+1595085.842853: B|13682|VerifyClass androidx.core.content.res.ResourcesCompat
+1595085.843258: E|13682
+1595085.843411: B|13682|VerifyClass androidx.core.content.res.ResourcesCompat$FontCallback$2
+1595085.843468: E|13682
+1595085.843735: B|13682|VerifyClass androidx.core.widget.AutoSizeableTextView
+1595085.843779: E|13682
+1595085.843835: B|13682|VerifyClass androidx.appcompat.widget.AppCompatTextClassifierHelper
+1595085.843949: E|13682
+1595085.844010: B|13682|VerifyClass androidx.emoji2.viewsintegration.EmojiTransformationMethod
+1595085.844090: E|13682
+1595085.844291: B|13682|VerifyClass com.google.android.material.resources.MaterialAttributes
+1595085.844511: E|13682
+1595085.844547: B|13682|VerifyClass com.google.android.material.R$styleable
+1595085.844782: E|13682
+1595085.844959: B|13682|VerifyClass com.google.android.material.resources.MaterialResources
+1595085.845164: E|13682
+1595085.845246: B|13682|VerifyClass androidx.core.view.ViewCompat$Api15Impl
+1595085.845290: E|13682
+1595085.845341: B|13682|VerifyClass androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener
+1595085.845456: E|13682
+1595085.845530: B|13682|VerifyClass androidx.constraintlayout.widget.ConstraintLayout$LayoutParams
+1595085.846090: E|13682
+1595085.846305: B|13682|VerifyClass androidx.constraintlayout.widget.ConstraintLayout$LayoutParams$Table
+1595085.846411: E|13682
+1595085.846708: E|13682
+1595085.846807: B|13682|B:ActivityMainBinding:bind
+1595085.846826: B|13682|VerifyClass androidx.viewbinding.ViewBindings
+1595085.846876: E|13682
+1595085.846907: B|13682|E:ActivityMainBinding:bind
+1595085.846932: B|13682|E:ActivityMainBinding:inflate
+1595085.846946: B|13682|E:ActivityMainBinding:inflate
+1595085.846983: B|13682|B:ActivityMainBinding:getRoot
+1595085.847003: B|13682|E:ActivityMainBinding:getRoot
+1595085.847171: B|13682|ResourcesManager#getResources
+1595085.847348: E|13682
+1595085.847445: B|13682|Theme::ApplyStyle
+1595085.847542: E|13682
+1595085.847610: B|13682|Theme::ApplyStyle
+1595085.847637: E|13682
+1595085.848252: B|13682|res/drawable/hw_freeform_foreground.xml
+1595085.848293: B|13682|AssetManager::OpenXmlAsset(res/drawable/hw_freeform_foreground.xml)
+1595085.848384: E|13682
+1595085.849619: E|13682
+1595085.849908: B|13682|AssetManager::OpenXmlAsset(res/interpolator/linear_out_slow_in.xml)
+1595085.850007: E|13682
+1595085.850280: B|13682|AssetManager::OpenXmlAsset(res/interpolator/fast_out_linear_in.xml)
+1595085.850345: E|13682
+1595085.851981: B|13682|transact[android.app.IActivityTaskManager:158]
+1595085.852248: E|13682
+1595085.853139: B|13682|transact[com.huawei.android.app.IHwActivityTaskManager:40]
+1595085.853363: E|13682
+1595085.853771: B|13682|AssetManager::OpenXmlAsset(res/layout/screen_simple.xml)
+1595085.853857: E|13682
+1595085.853912: B|13682|inflate
+1595085.853931: B|13682|Inflate Message Send
+1595085.853947: E|13682
+1595085.854164: B|13682|LinearLayout
+1595085.854550: E|13682
+1595085.854711: B|13682|Theme::ApplyStyle
+1595085.854764: E|13682
+1595085.854828: B|13682|ViewStub
+1595085.855106: E|13682
+1595085.855132: B|13682|ViewStub
+1595085.855250: E|13682
+1595085.855269: B|13682|ViewStub
+1595085.855420: E|13682
+1595085.855383: B|13682|JIT compiling java.lang.AbstractStringBuilder java.lang.AbstractStringBuilder.append(java.lang.String)
+1595085.855435: B|13682|ViewStub
+1595085.855436: B|13682|Compiling
+1595085.855625: E|13682
+1595085.855702: B|13682|ScopedCodeCacheWrite
+1595085.855721: B|13682|mprotect all
+1595085.855735: E|13682
+1595085.855744: B|13682|mprotect code
+1595085.855753: E|13682
+1595085.855756: E|13682
+1595085.855773: B|13682|Generate JIT debug info
+1595085.855811: E|13682
+1595085.855819: B|13682|FrameLayout
+1595085.855824: E|13682
+1595085.855830: B|13682|TrimMaps
+1595085.855835: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.855853: E|13682
+1595085.855902: E|13682
+1595085.855909: E|13682
+1595085.856101: E|13682
+1595085.856185: E|13682
+1595085.856640: B|13682|AssetManager::OpenXmlAsset(res/transition/fade.xml)
+1595085.856731: E|13682
+1595085.857028: B|13682|AssetManager::OpenXmlAsset(res/transition/move.xml)
+1595085.857096: E|13682
+1595085.857700: B|13682|VerifyClass androidx.lifecycle.ViewTreeLifecycleOwner
+1595085.857839: E|13682
+1595085.857893: B|13682|VerifyClass androidx.lifecycle.runtime.R$id
+1595085.857901: E|13682
+1595085.857950: B|13682|VerifyClass androidx.lifecycle.ViewTreeViewModelStoreOwner
+1595085.858051: E|13682
+1595085.858060: B|13682|VerifyClass androidx.lifecycle.viewmodel.R$id
+1595085.858065: E|13682
+1595085.858084: B|13682|VerifyClass androidx.savedstate.ViewTreeSavedStateRegistryOwner
+1595085.858119: E|13682
+1595085.858125: B|13682|VerifyClass androidx.savedstate.R$id
+1595085.858131: E|13682
+1595085.858350: B|13682|VerifyClass androidx.appcompat.R$attr
+1595085.858365: E|13682
+1595085.858418: B|13682|VerifyClass androidx.appcompat.R$layout
+1595085.858454: E|13682
+1595085.858522: B|13682|AssetManager::OpenXmlAsset(res/layout-v26/abc_screen_toolbar.xml)
+1595085.858601: E|13682
+1595085.858658: B|13682|inflate
+1595085.858665: B|13682|Inflate Message Send
+1595085.858679: E|13682
+1595085.858755: B|13682|Theme::ApplyStyle
+1595085.858792: E|13682
+1595085.858881: B|13682|androidx.appcompat.widget.ActionBarOverlayLayout
+1595085.859426: B|13682|VerifyClass androidx.appcompat.widget.ActionBarOverlayLayout
+1595085.861526: E|13682
+1595085.862083: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat
+1595085.862685: E|13682
+1595085.862730: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Impl
+1595085.862855: E|13682
+1595085.862869: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Builder
+1595085.863025: E|13682
+1595085.863048: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$BuilderImpl
+1595085.863099: E|13682
+1595085.863111: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$BuilderImpl29
+1595085.863199: E|13682
+1595085.863238: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Impl20
+1595085.863528: E|13682
+1595085.863548: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Impl21
+1595085.863582: E|13682
+1595085.863596: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Impl28
+1595085.863635: E|13682
+1595085.863640: B|13682|VerifyClass androidx.core.view.WindowInsetsCompat$Impl29
+1595085.863671: E|13682
+1595085.863704: B|13682|VerifyClass androidx.appcompat.widget.ActionBarOverlayLayout$1
+1595085.863732: E|13682
+1595085.863752: B|13682|VerifyClass androidx.appcompat.widget.ActionBarOverlayLayout$2
+1595085.863869: E|13682
+1595085.863950: B|13682|VerifyClass androidx.appcompat.widget.ActionBarOverlayLayout$3
+1595085.863976: E|13682
+1595085.864539: B|13682|transact[android.content.pm.IPackageManager:38]
+1595085.864781: E|13682
+1595085.865025: B|13682|AssetManager::OpenXmlAsset(res/xml/overscroller_config.xml)
+1595085.865121: E|13682
+1595085.866074: B|13682|AssetManager::OpenXmlAsset(res/interpolator/cubic_bezier_interpolator_listview_springback.xml)
+1595085.866180: E|13682
+1595085.866793: B|13682|AssetManager::OpenXmlAsset(res/interpolator/cubic_bezier_interpolator_listview_overshoot.xml)
+1595085.866892: E|13682
+1595085.867134: B|13682|VerifyClass androidx.core.view.NestedScrollingParentHelper
+1595085.867196: E|13682
+1595085.867215: E|13682
+1595085.867325: B|13682|AssetManager::OpenXmlAsset(res/layout/abc_screen_content_include.xml)
+1595085.867402: E|13682
+1595085.867547: B|13682|androidx.appcompat.widget.ContentFrameLayout
+1595085.867615: B|13682|VerifyClass androidx.appcompat.widget.ContentFrameLayout
+1595085.868035: E|13682
+1595085.868399: E|13682
+1595085.868392: B|13682|JIT compiling boolean android.content.res.ResourcesImpl.needCompatThirdPartyIMEInWindowMoving()
+1595085.868418: B|13682|VerifyClass androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams
+1595085.868420: B|13682|Compiling
+1595085.868446: E|13682
+1595085.868628: B|13682|androidx.appcompat.widget.ActionBarContainer
+1595085.868685: B|13682|VerifyClass androidx.appcompat.widget.ActionBarContainer
+1595085.868802: B|13682|ScopedCodeCacheWrite
+1595085.868811: B|13682|mprotect all
+1595085.868826: E|13682
+1595085.868857: B|13682|mprotect code
+1595085.868865: E|13682
+1595085.868869: E|13682
+1595085.868877: B|13682|Generate JIT debug info
+1595085.868911: E|13682
+1595085.868930: E|13682
+1595085.868936: B|13682|TrimMaps
+1595085.868940: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.868964: E|13682
+1595085.868969: E|13682
+1595085.868974: E|13682
+1595085.869902: E|13682
+1595085.870299: B|13682|VerifyClass androidx.appcompat.widget.ActionBarBackgroundDrawable
+1595085.870397: E|13682
+1595085.870427: B|13682|VerifyClass androidx.core.view.ViewCompat$Api16Impl
+1595085.870608: E|13682
+1595085.870929: B|13682|VerifyClass androidx.appcompat.R$id
+1595085.870956: E|13682
+1595085.870989: E|13682
+1595085.871151: B|13682|androidx.appcompat.widget.Toolbar
+1595085.871205: B|13682|VerifyClass androidx.appcompat.widget.Toolbar
+1595085.875113: E|13682
+1595085.875534: B|13682|VerifyClass androidx.core.view.MenuHostHelper
+1595085.875752: E|13682
+1595085.875774: B|13682|VerifyClass androidx.appcompat.widget.Toolbar$$ExternalSyntheticLambda0
+1595085.875788: E|13682
+1595085.875837: B|13682|VerifyClass androidx.appcompat.widget.Toolbar$1
+1595085.875852: E|13682
+1595085.875859: B|13682|VerifyClass androidx.appcompat.widget.Toolbar$2
+1595085.875866: E|13682
+1595085.876029: B|13682|VerifyClass androidx.appcompat.widget.RtlSpacingHelper
+1595085.876098: E|13682
+1595085.876113: B|13682|VerifyClass androidx.appcompat.content.res.AppCompatResources
+1595085.876132: E|13682
+1595085.876597: B|13682|JIT compiling android.graphics.Rect android.app.WindowConfiguration.getBounds()
+1595085.876622: B|13682|Compiling
+1595085.876698: B|13682|res/color/abc_primary_text_material_dark.xml
+1595085.876722: B|13682|AssetManager::OpenXmlAsset(res/color/abc_primary_text_material_dark.xml)
+1595085.876785: B|13682|ScopedCodeCacheWrite
+1595085.876793: B|13682|mprotect all
+1595085.876796: E|13682
+1595085.876806: E|13682
+1595085.876815: B|13682|mprotect code
+1595085.876822: E|13682
+1595085.876825: E|13682
+1595085.876832: B|13682|Generate JIT debug info
+1595085.876863: E|13682
+1595085.876877: E|13682
+1595085.876883: B|13682|TrimMaps
+1595085.876886: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595085.876904: E|13682
+1595085.876910: E|13682
+1595085.876915: E|13682
+1595085.877025: E|13682
+1595085.877234: B|13682|VerifyClass androidx.appcompat.widget.AppCompatImageButton
+1595085.877597: E|13682
+1595085.878927: B|13682|VerifyClass androidx.appcompat.widget.AppCompatImageHelper
+1595085.879235: E|13682
+1595085.879290: B|13682|VerifyClass androidx.appcompat.app.ActionBar$LayoutParams
+1595085.879347: E|13682
+1595085.879361: B|13682|VerifyClass androidx.appcompat.widget.Toolbar$LayoutParams
+1595085.879395: E|13682
+1595085.879431: B|13682|VerifyClass androidx.appcompat.widget.TooltipCompat
+1595085.879539: E|13682
+1595085.879635: B|13682|VerifyClass androidx.core.content.res.ResourcesCompat$ColorStateListCacheKey
+1595085.879684: E|13682
+1595085.879704: B|13682|VerifyClass androidx.core.util.ObjectsCompat
+1595085.879751: E|13682
+1595085.879844: B|13682|VerifyClass androidx.core.content.res.ColorStateListInflaterCompat
+1595085.880263: E|13682
+1595085.880315: B|13682|VerifyClass androidx.core.R$styleable
+1595085.880339: E|13682
+1595085.880430: B|13682|VerifyClass androidx.core.os.BuildCompat
+1595085.880486: E|13682
+1595085.880510: B|13682|VerifyClass androidx.core.R$attr
+1595085.880519: E|13682
+1595085.880533: B|13682|VerifyClass androidx.core.content.res.GrowingArrayUtils
+1595085.880613: E|13682
+1595085.880716: B|13682|VerifyClass androidx.core.content.res.ResourcesCompat$ColorStateListCacheEntry
+1595085.880740: E|13682
+1595085.880812: B|13682|AssetManager::OpenXmlAsset(res/color/abc_secondary_text_material_dark.xml)
+1595085.880891: E|13682
+1595085.881099: E|13682
+1595085.881350: B|13682|Theme::ApplyStyle
+1595085.881366: E|13682
+1595085.881468: B|13682|androidx.appcompat.widget.ActionBarContextView
+1595085.881531: B|13682|VerifyClass androidx.appcompat.widget.AbsActionBarView
+1595085.882063: E|13682
+1595085.882085: B|13682|VerifyClass androidx.appcompat.widget.ActionBarContextView
+1595085.882892: E|13682
+1595085.883261: B|13682|VerifyClass androidx.appcompat.widget.AbsActionBarView$VisibilityAnimListener
+1595085.883318: E|13682
+1595085.883553: B|13682|res/drawable/cab_background_top_material.xml
+1595085.883602: B|13682|AssetManager::OpenXmlAsset(res/drawable/cab_background_top_material.xml)
+1595085.884843: E|13682
+1595085.887478: B|13682|AssetManager::OpenNonAsset(res/drawable-xxhdpi-v4/cab_background_top_mtrl_alpha.9.png)
+1595085.887556: E|13682
+1595085.888155: E|13682
+1595085.888687: E|13682
+1595085.888903: E|13682
+1595085.888997: B|13682|VerifyClass androidx.appcompat.widget.ToolbarWidgetWrapper
+1595085.889884: E|13682
+1595085.889940: B|13682|VerifyClass androidx.appcompat.R$string
+1595085.889996: E|13682
+1595085.890770: B|13682|VerifyClass androidx.appcompat.widget.ToolbarWidgetWrapper$1
+1595085.891051: E|13682
+1595085.891079: B|13682|VerifyClass androidx.appcompat.view.menu.ActionMenuItem
+1595085.891396: E|13682
+1595085.891509: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$3
+1595085.891548: E|13682
+1595085.891560: B|13682|VerifyClass androidx.core.view.ViewCompat$Api21Impl
+1595085.891945: E|13682
+1595085.892005: B|13682|VerifyClass androidx.core.view.ViewCompat$Api21Impl$1
+1595085.892040: E|13682
+1595085.892056: B|13682|VerifyClass androidx.appcompat.widget.ViewUtils
+1595085.892188: E|13682
+1595085.893888: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$5
+1595085.893968: E|13682
+1595085.894511: B|13682|res/color/abc_secondary_text_material_dark.xml
+1595085.894688: E|13682
+1595085.894818: B|13682|res/color/abc_hint_foreground_material_dark.xml
+1595085.894841: B|13682|AssetManager::OpenXmlAsset(res/color/abc_hint_foreground_material_dark.xml)
+1595085.894915: E|13682
+1595085.895063: E|13682
+1595085.896841: B|13682|VerifyClass androidx.core.view.ViewCompat$Api19Impl
+1595085.896964: E|13682
+1595085.897176: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$PanelFeatureState
+1595085.897498: E|13682
+1595085.897737: B|13682|B:MainActivity:funA
+1595085.897765: B|13682|B:MainActivity:funB
+1595086.397921: B|13682|E:MainActivity:funB
+1595086.397980: B|13682|B:MainActivity:funC
+1595087.082273: B|13682|Background young concurrent copying GC
+1595087.082429: B|13682|InitializePhase
+1595087.084009: B|13682|MarkZygoteLargeObjects
+1595087.084087: E|13682
+1595087.084098: E|13682
+1595087.084175: B|13682|GrayAllDirtyImmuneObjects
+1595087.085010: E|13682
+1595087.085062: B|13682|FlipThreadRoots
+1595087.085080: B|13682|ThreadListFlip
+1595087.085115: B|13682|(Paused)FlipCallback
+1595087.085126: B|13682|(Paused)SetFromSpace
+1595087.085198: E|13682
+1595087.085233: B|13682|(Paused)GrayAllNewlyDirtyImmuneObjects
+1595087.085255: B|13682|(Paused)ClearCards
+1595087.085299: E|13682
+1595087.085311: B|13682|(Paused)ClearCards
+1595087.085324: E|13682
+1595087.085333: B|13682|(Paused)ClearCards
+1595087.085341: E|13682
+1595087.085349: B|13682|(Paused)ClearCards
+1595087.085358: E|13682
+1595087.085366: B|13682|(Paused)ClearCards
+1595087.085375: E|13682
+1595087.085391: B|13682|(Paused)ClearCards
+1595087.085400: E|13682
+1595087.085408: B|13682|(Paused)ClearCards
+1595087.085426: E|13682
+1595087.085436: B|13682|(Paused)ClearCards
+1595087.085464: E|13682
+1595087.085475: B|13682|(Paused)ClearCards
+1595087.085484: E|13682
+1595087.085492: B|13682|(Paused)ClearCards
+1595087.085500: E|13682
+1595087.085508: B|13682|(Paused)ClearCards
+1595087.085516: E|13682
+1595087.085524: B|13682|(Paused)ClearCards
+1595087.085532: E|13682
+1595087.085541: B|13682|(Paused)ClearCards
+1595087.085550: E|13682
+1595087.085558: B|13682|(Paused)ClearCards
+1595087.085566: E|13682
+1595087.085574: B|13682|(Paused)ClearCards
+1595087.085582: E|13682
+1595087.085590: B|13682|(Paused)ClearCards
+1595087.085599: E|13682
+1595087.085607: B|13682|(Paused)ClearCards
+1595087.085615: E|13682
+1595087.085623: B|13682|(Paused)ClearCards
+1595087.085631: E|13682
+1595087.085639: B|13682|(Paused)ClearCards
+1595087.085647: E|13682
+1595087.085655: B|13682|(Paused)ClearCards
+1595087.085663: E|13682
+1595087.085672: B|13682|(Paused)ClearCards
+1595087.085680: E|13682
+1595087.085688: B|13682|(Paused)ClearCards
+1595087.085696: E|13682
+1595087.085705: B|13682|(Paused)ClearCards
+1595087.085717: E|13682
+1595087.085724: B|13682|(Paused)ClearCards
+1595087.085733: E|13682
+1595087.085740: B|13682|(Paused)ClearCards
+1595087.085749: E|13682
+1595087.085757: B|13682|(Paused)ClearCards
+1595087.085765: E|13682
+1595087.085772: B|13682|(Paused)ClearCards
+1595087.085781: E|13682
+1595087.085788: B|13682|(Paused)ClearCards
+1595087.085797: E|13682
+1595087.085805: B|13682|(Paused)ClearCards
+1595087.085815: E|13682
+1595087.085823: B|13682|(Paused)ClearCards
+1595087.085831: E|13682
+1595087.085839: B|13682|(Paused)ClearCards
+1595087.085847: E|13682
+1595087.085855: B|13682|(Paused)ClearCards
+1595087.085865: E|13682
+1595087.085873: B|13682|(Paused)ClearCards
+1595087.085881: E|13682
+1595087.085889: B|13682|(Paused)ClearCards
+1595087.085898: E|13682
+1595087.085906: B|13682|(Paused)ClearCards
+1595087.085913: E|13682
+1595087.085922: B|13682|(Paused)ClearCards
+1595087.085930: E|13682
+1595087.085941: B|13682|(Paused)ClearCards
+1595087.085958: E|13682
+1595087.085967: B|13682|(Paused)ClearCards
+1595087.085976: E|13682
+1595087.085984: B|13682|(Paused)ClearCards
+1595087.085992: E|13682
+1595087.086000: B|13682|(Paused)ClearCards
+1595087.086008: E|13682
+1595087.086016: B|13682|(Paused)ClearCards
+1595087.086024: E|13682
+1595087.086032: B|13682|(Paused)ClearCards
+1595087.086040: E|13682
+1595087.086048: B|13682|(Paused)ClearCards
+1595087.086056: E|13682
+1595087.086063: B|13682|(Paused)ClearCards
+1595087.086072: E|13682
+1595087.086080: B|13682|(Paused)ClearCards
+1595087.086090: E|13682
+1595087.086098: B|13682|(Paused)ClearCards
+1595087.086107: E|13682
+1595087.086114: B|13682|(Paused)ClearCards
+1595087.086122: E|13682
+1595087.086138: B|13682|(Paused)ClearCards
+1595087.086147: E|13682
+1595087.086154: E|13682
+1595087.086164: E|13682
+1595087.086172: B|13682|ResumeRunnableThreads
+1595087.086192: E|13682
+1595087.086201: B|13682|FlipOtherThreads
+1595087.086537: E|13682
+1595087.086575: B|13682|ResumeOtherThreads
+1595087.086609: E|13682
+1595087.086619: E|13682
+1595087.086628: E|13682
+1595087.086637: B|13682|CopyingPhase
+1595087.086663: B|13682|ScanCardsForSpace
+1595087.087468: E|13682
+1595087.087505: B|13682|ScanImmuneSpaces
+1595087.098752: E|13682
+1595087.098796: B|13682|VisitConcurrentRoots
+1595087.101289: E|13682
+1595087.101313: B|13682|VisitNonThreadRoots
+1595087.101488: E|13682
+1595087.101502: B|13682|ProcessMarkStack
+1595087.105300: B|13682|ProcessReferences
+1595087.105327: B|13682|ProcessReferences
+1595087.105334: B|13682|ForwardSoftReferences
+1595087.105360: E|13682
+1595087.105389: B|13682|EnqueueFinalizerReferences
+1595087.105464: E|13682
+1595087.105489: E|13682
+1595087.105503: E|13682
+1595087.105509: B|13682|SweepSystemWeaks
+1595087.106733: E|13682
+1595087.106805: E|13682
+1595087.106823: E|13682
+1595087.106829: B|13682|ReclaimPhase
+1595087.106838: B|13682|RecordFree
+1595087.106983: B|13682|ClearFromSpace
+1595087.107709: E|13682
+1595087.107731: E|13682
+1595087.107749: B|13682|SweepArray
+1595087.107783: B|13682|FreeList
+1595087.107816: E|13682
+1595087.107840: B|13682|RecordFree
+1595087.107852: E|13682
+1595087.107856: B|13682|ResetStack
+1595087.107869: E|13682
+1595087.107894: E|13682
+1595087.107900: B|13682|SwapBitmaps
+1595087.107911: E|13682
+1595087.107918: B|13682|UnBindBitmaps
+1595087.107925: E|13682
+1595087.107930: E|13682
+1595087.107973: B|13682|EmptyRBMarkBitStack
+1595087.107987: E|13682
+1595087.108094: E|13682
+1595089.187520: B|13682|transact[android.content.pm.IPackageManager:13]
+1595089.188269: E|13682
+1595089.192413: B|13682|transact[android.content.pm.IPackageManager:3]
+1595089.192949: E|13682
+1595089.201949: B|13682|JIT compiling void org.json.JSONStringer.string(java.lang.String)
+1595089.202016: B|13682|Compiling
+1595089.204575: B|13682|ScopedCodeCacheWrite
+1595089.204628: B|13682|mprotect all
+1595089.204701: E|13682
+1595089.204746: B|13682|mprotect code
+1595089.204786: E|13682
+1595089.204796: E|13682
+1595089.204818: B|13682|Generate JIT debug info
+1595089.204954: E|13682
+1595089.205041: E|13682
+1595089.205074: B|13682|TrimMaps
+1595089.205104: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595089.205166: E|13682
+1595089.205202: E|13682
+1595089.205218: E|13682
+1595089.398256: B|13682|E:MainActivity:funC
+1595089.398346: B|13682|B:MainActivity:funD
+1595090.141507: B|13682|CollectorTransition concurrent copying GC
+1595090.141594: B|13682|InitializePhase
+1595090.142384: B|13682|MarkZygoteLargeObjects
+1595090.142442: E|13682
+1595090.142452: E|13682
+1595090.142495: B|13682|GrayAllDirtyImmuneObjects
+1595090.142906: E|13682
+1595090.142932: B|13682|FlipThreadRoots
+1595090.142941: B|13682|ThreadListFlip
+1595090.142964: B|13682|(Paused)FlipCallback
+1595090.142972: B|13682|(Paused)SetFromSpace
+1595090.142990: E|13682
+1595090.142998: B|13682|(Paused)GrayAllNewlyDirtyImmuneObjects
+1595090.143009: B|13682|(Paused)ClearCards
+1595090.143018: E|13682
+1595090.143025: B|13682|(Paused)ClearCards
+1595090.143032: E|13682
+1595090.143038: B|13682|(Paused)ClearCards
+1595090.143045: E|13682
+1595090.143052: B|13682|(Paused)ClearCards
+1595090.143059: E|13682
+1595090.143065: B|13682|(Paused)ClearCards
+1595090.143072: E|13682
+1595090.143083: B|13682|(Paused)ClearCards
+1595090.143089: E|13682
+1595090.143096: B|13682|(Paused)ClearCards
+1595090.143103: E|13682
+1595090.143109: B|13682|(Paused)ClearCards
+1595090.143116: E|13682
+1595090.143122: B|13682|(Paused)ClearCards
+1595090.143129: E|13682
+1595090.143136: B|13682|(Paused)ClearCards
+1595090.143143: E|13682
+1595090.143149: B|13682|(Paused)ClearCards
+1595090.143156: E|13682
+1595090.143162: B|13682|(Paused)ClearCards
+1595090.143169: E|13682
+1595090.143176: B|13682|(Paused)ClearCards
+1595090.143183: E|13682
+1595090.143189: B|13682|(Paused)ClearCards
+1595090.143196: E|13682
+1595090.143202: B|13682|(Paused)ClearCards
+1595090.143210: E|13682
+1595090.143217: B|13682|(Paused)ClearCards
+1595090.143224: E|13682
+1595090.143231: B|13682|(Paused)ClearCards
+1595090.143238: E|13682
+1595090.143245: B|13682|(Paused)ClearCards
+1595090.143252: E|13682
+1595090.143258: B|13682|(Paused)ClearCards
+1595090.143265: E|13682
+1595090.143272: B|13682|(Paused)ClearCards
+1595090.143278: E|13682
+1595090.143285: B|13682|(Paused)ClearCards
+1595090.143292: E|13682
+1595090.143299: B|13682|(Paused)ClearCards
+1595090.143306: E|13682
+1595090.143312: B|13682|(Paused)ClearCards
+1595090.143319: E|13682
+1595090.143325: B|13682|(Paused)ClearCards
+1595090.143333: E|13682
+1595090.143339: B|13682|(Paused)ClearCards
+1595090.143346: E|13682
+1595090.143352: B|13682|(Paused)ClearCards
+1595090.143359: E|13682
+1595090.143365: B|13682|(Paused)ClearCards
+1595090.143372: E|13682
+1595090.143378: B|13682|(Paused)ClearCards
+1595090.143386: E|13682
+1595090.143391: B|13682|(Paused)ClearCards
+1595090.143398: E|13682
+1595090.143405: B|13682|(Paused)ClearCards
+1595090.143417: E|13682
+1595090.143423: B|13682|(Paused)ClearCards
+1595090.143431: E|13682
+1595090.143437: B|13682|(Paused)ClearCards
+1595090.143444: E|13682
+1595090.143450: B|13682|(Paused)ClearCards
+1595090.143457: E|13682
+1595090.143463: B|13682|(Paused)ClearCards
+1595090.143470: E|13682
+1595090.143476: B|13682|(Paused)ClearCards
+1595090.143483: E|13682
+1595090.143489: B|13682|(Paused)ClearCards
+1595090.143496: E|13682
+1595090.143503: B|13682|(Paused)ClearCards
+1595090.143510: E|13682
+1595090.143516: B|13682|(Paused)ClearCards
+1595090.143523: E|13682
+1595090.143529: B|13682|(Paused)ClearCards
+1595090.143536: E|13682
+1595090.143543: B|13682|(Paused)ClearCards
+1595090.143549: E|13682
+1595090.143556: B|13682|(Paused)ClearCards
+1595090.143562: E|13682
+1595090.143569: B|13682|(Paused)ClearCards
+1595090.143575: E|13682
+1595090.143582: B|13682|(Paused)ClearCards
+1595090.143588: E|13682
+1595090.143595: B|13682|(Paused)ClearCards
+1595090.143601: E|13682
+1595090.143608: B|13682|(Paused)ClearCards
+1595090.143614: E|13682
+1595090.143621: B|13682|(Paused)ClearCards
+1595090.143628: E|13682
+1595090.143634: B|13682|(Paused)ClearCards
+1595090.143641: E|13682
+1595090.143649: B|13682|(Paused)ClearCards
+1595090.143656: E|13682
+1595090.143662: E|13682
+1595090.143672: E|13682
+1595090.143679: B|13682|ResumeRunnableThreads
+1595090.143691: E|13682
+1595090.143699: B|13682|FlipOtherThreads
+1595090.143961: E|13682
+1595090.143977: B|13682|ResumeOtherThreads
+1595090.143986: E|13682
+1595090.143994: E|13682
+1595090.144006: E|13682
+1595090.144013: B|13682|CopyingPhase
+1595090.144020: B|13682|ScanCardsForSpace
+1595090.144590: E|13682
+1595090.144597: B|13682|ScanImmuneSpaces
+1595090.154334: E|13682
+1595090.154395: B|13682|VisitConcurrentRoots
+1595090.158105: E|13682
+1595090.158150: B|13682|VisitNonThreadRoots
+1595090.158390: E|13682
+1595090.158412: B|13682|ProcessMarkStack
+1595090.163331: B|13682|ProcessReferences
+1595090.163385: B|13682|ProcessReferences
+1595090.163394: B|13682|ForwardSoftReferences
+1595090.163431: E|13682
+1595090.163450: B|13682|EnqueueFinalizerReferences
+1595090.163484: E|13682
+1595090.163503: E|13682
+1595090.163513: E|13682
+1595090.163520: B|13682|SweepSystemWeaks
+1595090.164272: E|13682
+1595090.164372: E|13682
+1595090.164401: E|13682
+1595090.164410: B|13682|ReclaimPhase
+1595090.164424: B|13682|RecordFree
+1595090.164512: B|13682|ClearFromSpace
+1595090.166102: E|13682
+1595090.166143: E|13682
+1595090.166152: B|13682|MarkStackAsLive
+1595090.166186: E|13682
+1595090.166197: B|13682|Sweep
+1595090.166208: B|13682|SweepAllocSpace
+1595090.166259: E|13682
+1595090.166270: B|13682|SweepLargeObjects
+1595090.166305: E|13682
+1595090.166312: E|13682
+1595090.166319: B|13682|SwapBitmaps
+1595090.166342: E|13682
+1595090.166353: B|13682|UnBindBitmaps
+1595090.166362: E|13682
+1595090.166369: E|13682
+1595090.166471: B|13682|EmptyRBMarkBitStack
+1595090.166526: E|13682
+1595090.166689: E|13682
+1595090.199389: B|13682|E:MainActivity:funD
+1595090.199499: B|13682|B:MainActivity:funE
+1595090.276225: B|13682|Releasing app image spaces metadata
+1595090.276484: E|13682
+1595090.276529: B|13682|Delete thread pool
+1595090.277420: B|13682|DetachCurrentThread
+1595090.277523: E|13682
+1595090.277763: B|13682|DetachCurrentThread
+1595090.277749: B|13682|DetachCurrentThread
+1595090.277806: E|13682
+1595090.277821: E|13682
+1595090.277923: B|13682|DetachCurrentThread
+1595090.277984: E|13682
+1595090.278143: E|13682
+1595090.278196: B|13682|void art::ProfileSaver::FetchAndCacheResolvedClassesAndMethods(bool)
+1595090.278669: B|13682|Get class loaders
+1595090.278730: E|13682
+1595090.278776: B|13682|Visiting class table
+1595090.279037: E|13682
+1595090.279078: B|13682|Visiting class table
+1595090.282755: E|13682
+1595090.282809: B|13682|Visiting class table
+1595090.282858: E|13682
+1595090.282909: B|13682|Visiting class table
+1595090.283416: E|13682
+1595090.284978: E|13682
+1595091.205752: B|13682|transact[android.content.pm.IPackageManager:13]
+1595091.206412: E|13682
+1595091.208282: B|13682|JIT compiling char[] java.util.Arrays.copyOf(char[], int)
+1595091.208363: B|13682|Compiling
+1595091.209393: B|13682|ScopedCodeCacheWrite
+1595091.209462: B|13682|mprotect all
+1595091.209511: E|13682
+1595091.209540: B|13682|mprotect code
+1595091.209600: E|13682
+1595091.209616: E|13682
+1595091.209647: B|13682|Generate JIT debug info
+1595091.209810: E|13682
+1595091.209927: E|13682
+1595091.209985: B|13682|TrimMaps
+1595091.210001: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595091.210123: E|13682
+1595091.210174: E|13682
+1595091.210205: E|13682
+1595091.210789: B|13682|transact[android.app.IActivityManager:71]
+1595091.211512: E|13682
+1595091.217625: B|13682|JIT compiling java.lang.StringBuilder java.lang.StringBuilder.append(char)
+1595091.217678: B|13682|Compiling
+1595091.217946: B|13682|ScopedCodeCacheWrite
+1595091.217983: B|13682|mprotect all
+1595091.218009: E|13682
+1595091.218024: B|13682|mprotect code
+1595091.218039: E|13682
+1595091.218047: E|13682
+1595091.218061: B|13682|Generate JIT debug info
+1595091.218112: E|13682
+1595091.218138: E|13682
+1595091.218171: B|13682|TrimMaps
+1595091.218182: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595091.218228: E|13682
+1595091.218240: E|13682
+1595091.218251: E|13682
+1595091.218321: B|13682|bool art::ProfileSaver::ProcessProfilingInfo(bool, uint16_t *)
+1595091.218410: B|13682|void art::ProfileSaver::FetchAndCacheResolvedClassesAndMethods(bool)
+1595091.218474: B|13682|Get class loaders
+1595091.218511: E|13682
+1595091.218566: B|13682|Visiting class table
+1595091.218785: E|13682
+1595091.218830: B|13682|Visiting class table
+1595091.222656: E|13682
+1595091.222719: B|13682|Visiting class table
+1595091.222774: E|13682
+1595091.222813: B|13682|Visiting class table
+1595091.223325: E|13682
+1595091.224360: E|13682
+1595091.224422: B|13682|GetProfiledMethods
+1595091.224485: E|13682
+1595091.224530: B|13682|bool art::ProfileCompilationInfo::Load(const std::string &, bool)
+1595091.224883: B|13682|ProfileCompilationInfo::ProfileLoadStatus art::ProfileCompilationInfo::LoadInternal(int32_t, std::string *, bool, const art::ProfileCompilationInfo::ProfileLoadFilterFn &)
+1595091.224955: E|13682
+1595091.224994: E|13682
+1595091.225910: B|13682|bool art::ProfileCompilationInfo::Save(const std::string &, uint64_t *)
+1595091.226116: B|13682|bool art::ProfileCompilationInfo::Save(int)
+1595091.227522: E|13682
+1595091.227633: E|13682
+1595091.227852: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595091.228317: E|13682
+1595091.228374: E|13682
+1595092.108575: B|13682|Deflating monitors
+1595092.108654: B|13682|Suspending mutator threads
+1595092.108678: E|13682
+1595092.108688: B|13682|Mutator threads suspended for Trim
+1595092.108903: E|13682
+1595092.108949: B|13682|Resuming mutator threads
+1595092.108970: E|13682
+1595092.108981: E|13682
+1595092.108988: B|13682|void art::gc::Heap::TrimIndirectReferenceTables(art::Thread *)
+1595092.108999: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109020: E|13682
+1595092.109037: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109055: E|13682
+1595092.109070: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109084: E|13682
+1595092.109091: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109120: E|13682
+1595092.109126: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109143: E|13682
+1595092.109149: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109160: E|13682
+1595092.109166: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109175: E|13682
+1595092.109181: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109195: E|13682
+1595092.109201: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109210: E|13682
+1595092.109215: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109226: E|13682
+1595092.109232: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109244: E|13682
+1595092.109250: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109260: E|13682
+1595092.109265: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109274: E|13682
+1595092.109280: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109294: E|13682
+1595092.109299: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109313: E|13682
+1595092.109320: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109328: E|13682
+1595092.109334: B|13682|void art::IndirectReferenceTable::Trim()
+1595092.109348: E|13682
+1595092.109357: E|13682
+1595092.109365: B|13682|void art::gc::Heap::TrimSpaces(art::Thread *)
+1595092.109506: E|13682
+1595092.109539: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.109569: E|13682
+1595092.200197: B|13682|E:MainActivity:funE
+1595092.200399: B|13682|B:MainActivity:funF
+1595092.250721: B|13682|E:MainActivity:funF
+1595092.250884: B|13682|B:MainActivity:recursion
+1595092.250971: B|13682|B:MainActivity:recursion
+1595092.251054: B|13682|B:MainActivity:recursion
+1595092.251135: B|13682|B:MainActivity:recursion
+1595092.251214: B|13682|B:MainActivity:recursion
+1595092.251295: B|13682|B:MainActivity:recursion
+1595092.251374: B|13682|B:MainActivity:recursion
+1595092.251452: B|13682|B:MainActivity:recursion
+1595092.251532: B|13682|B:MainActivity:recursion
+1595092.251614: B|13682|B:MainActivity:recursion
+1595092.251732: B|13682|E:MainActivity:recursion
+1595092.251814: B|13682|E:MainActivity:recursion
+1595092.251975: B|13682|E:MainActivity:recursion
+1595092.252060: B|13682|E:MainActivity:recursion
+1595092.252113: B|13682|E:MainActivity:recursion
+1595092.252191: B|13682|E:MainActivity:recursion
+1595092.252240: B|13682|E:MainActivity:recursion
+1595092.252316: B|13682|E:MainActivity:recursion
+1595092.252365: B|13682|E:MainActivity:recursion
+1595092.252405: B|13682|E:MainActivity:recursion
+1595092.252467: B|13682|E:MainActivity:funA
+1595092.252589: B|13682|VerifyClass com.bomber.strace.MainActivity$$ExternalSyntheticLambda0
+1595092.252878: E|13682
+1595092.254398: B|13682|E:MainActivity:onCreate
+1595092.258085: B|13682|transact[android.app.IActivityTaskManager:67]
+1595092.259051: E|13682
+1595092.260382: B|13682|AssetManager::GetResourceConfigurations
+1595092.260715: E|13682
+1595092.262423: B|13682|transact[android.app.IActivityTaskManager:111]
+1595092.263414: E|13682
+1595092.263558: E|13682
+1595092.263815: B|13682|transact[android.app.IActivityTaskManager:67]
+1595092.264903: E|13682
+1595092.265555: B|13682|VerifyClass androidx.activity.OnBackPressedDispatcher$OnBackPressedCancellable
+1595092.265703: E|13682
+1595092.266634: B|13682|transact[android.content.IContentProvider:21]
+1595092.267777: E|13682
+1595092.269156: B|13682|notifyContentCapture(START) for {com.bomber.strace/com.bomber.strace.MainActivity}
+1595092.269389: E|13682
+1595092.269447: B|13682|activityResume
+1595092.271098: B|13682|notifyContentCapture(RESUME) for {com.bomber.strace/com.bomber.strace.MainActivity}
+1595092.271202: E|13682
+1595092.272239: B|13682|JIT compiling void java.lang.AbstractStringBuilder.ensureCapacityInternal(int)
+1595092.272335: B|13682|Compiling
+1595092.272430: B|13682|VerifyClass androidx.appcompat.app.ActionBar
+1595092.272716: E|13682
+1595092.272734: B|13682|VerifyClass androidx.appcompat.app.WindowDecorActionBar
+1595092.273196: B|13682|ScopedCodeCacheWrite
+1595092.273328: B|13682|mprotect all
+1595092.273418: E|13682
+1595092.273445: B|13682|mprotect code
+1595092.273461: E|13682
+1595092.273469: E|13682
+1595092.273490: B|13682|Generate JIT debug info
+1595092.273625: E|13682
+1595092.273731: E|13682
+1595092.273746: B|13682|TrimMaps
+1595092.273754: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.273816: E|13682
+1595092.273826: E|13682
+1595092.273837: E|13682
+1595092.274984: E|13682
+1595092.275105: B|13682|VerifyClass androidx.core.view.ViewPropertyAnimatorListenerAdapter
+1595092.275132: E|13682
+1595092.275142: B|13682|VerifyClass androidx.appcompat.app.WindowDecorActionBar$1
+1595092.275180: E|13682
+1595092.275191: B|13682|VerifyClass androidx.appcompat.app.WindowDecorActionBar$2
+1595092.275273: E|13682
+1595092.275284: B|13682|VerifyClass androidx.appcompat.app.WindowDecorActionBar$3
+1595092.275348: E|13682
+1595092.275473: B|13682|VerifyClass androidx.appcompat.view.ActionBarPolicy
+1595092.275664: E|13682
+1595092.275692: B|13682|VerifyClass androidx.appcompat.R$bool
+1595092.275703: E|13682
+1595092.276182: B|13682|VerifyClass androidx.emoji2.text.ConcurrencyHelpers
+1595092.276435: E|13682
+1595092.276455: B|13682|VerifyClass androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl
+1595092.276477: E|13682
+1595092.276493: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$LoadEmojiCompatRunnable
+1595092.276546: E|13682
+1595092.276995: B|13682|transact[com.huawei.android.app.IHwActivityTaskManager:39]
+1595092.277812: E|13682
+1595092.280388: B|13682|transact[:1]
+1595092.280677: E|13682
+1595092.281662: B|13682|transact[android.app.IUiModeManager:3]
+1595092.282349: E|13682
+1595092.283015: B|13682|transact[com.android.internal.view.IInputMethodManager:1]
+1595092.283991: E|13682
+1595092.284216: B|13682|transact[android.view.IWindowManager:4]
+1595092.285135: E|13682
+1595092.286888: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595092.287383: E|13682
+1595092.288428: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595092.289148: E|13682
+1595092.289744: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595092.290435: E|13682
+1595092.291330: B|13682|transact[:1]
+1595092.291800: E|13682
+1595092.293168: B|13682|transact[android.pc.IHwPCManager:73]
+1595092.293897: E|13682
+1595092.294631: B|13682|transact[android.app.IActivityManager:184]
+1595092.295284: E|13682
+1595092.295628: B|13682|transact[android.view.IGraphicsStats:1]
+1595092.297400: E|13682
+1595092.298238: B|13682|notifyFramePending
+1595092.298264: E|13682
+1595092.298603: B|13682|transact[android.view.IWindowSession:1]
+1595092.301788: E|13682
+1595092.302754: B|13682|transact[android.view.accessibility.IAccessibilityManager:6]
+1595092.303579: E|13682
+1595092.304765: B|13682|transact[:1]
+1595092.305228: E|13682
+1595092.305427: B|13682|transact[android.app.IUiModeManager:7]
+1595092.305851: E|13682
+1595092.306138: E|13682
+1595092.306219: B|13682|transact[android.app.IActivityTaskManager:18]
+1595092.306747: E|13682
+1595092.307845: B|13682|topResumedActivityChangeItem
+1595092.308972: E|13682
+1595092.309411: B|13682|topResumedActivityChangeItem
+1595092.309387: B|13682|JIT compiling java.lang.Object java.lang.ref.Reference.get()
+1595092.309468: B|13682|Compiling
+1595092.309474: E|13682
+1595092.309516: B|13682|transact[android.app.IActivityTaskManager:19]
+1595092.309751: E|13682
+1595092.309921: B|13682|activityPause
+1595092.310012: B|13682|ScopedCodeCacheWrite
+1595092.310029: B|13682|mprotect all
+1595092.310053: B|13682|VerifyClass androidx.arch.core.internal.SafeIterableMap$ListIterator
+1595092.310087: E|13682
+1595092.310105: B|13682|mprotect code
+1595092.310119: E|13682
+1595092.310126: E|13682
+1595092.310143: E|13682
+1595092.310144: B|13682|Generate JIT debug info
+1595092.310153: B|13682|VerifyClass androidx.arch.core.internal.SafeIterableMap$DescendingIterator
+1595092.310168: E|13682
+1595092.310225: E|13682
+1595092.310261: E|13682
+1595092.310271: B|13682|TrimMaps
+1595092.310278: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.310316: E|13682
+1595092.310325: E|13682
+1595092.310336: E|13682
+1595092.310783: B|13682|notifyContentCapture(PAUSE) for {com.bomber.strace/com.bomber.strace.MainActivity}
+1595092.310863: E|13682
+1595092.311144: E|13682
+1595092.311198: B|13682|transact[android.app.IActivityTaskManager:20]
+1595092.312331: E|13682
+1595092.312845: B|13682|topResumedActivityChangeItem
+1595092.312974: E|13682
+1595092.313099: B|13682|activityDeliverResult
+1595092.313481: B|13682|JIT compiling boolean java.lang.String.startsWith(java.lang.String, int)
+1595092.313512: B|13682|Compiling
+1595092.313575: E|13682
+1595092.313612: B|13682|activityResume
+1595092.313937: B|13682|ScopedCodeCacheWrite
+1595092.313959: B|13682|mprotect all
+1595092.313977: E|13682
+1595092.313987: B|13682|mprotect code
+1595092.313996: E|13682
+1595092.313999: E|13682
+1595092.314009: B|13682|Generate JIT debug info
+1595092.314047: E|13682
+1595092.314065: E|13682
+1595092.314072: B|13682|TrimMaps
+1595092.314076: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.314103: E|13682
+1595092.314109: E|13682
+1595092.314115: E|13682
+1595092.314387: B|13682|notifyContentCapture(RESUME) for {com.bomber.strace/com.bomber.strace.MainActivity}
+1595092.314484: E|13682
+1595092.314616: B|13682|JIT compiling java.lang.AbstractStringBuilder java.lang.AbstractStringBuilder.append(char)
+1595092.314643: B|13682|Compiling
+1595092.314881: B|13682|ScopedCodeCacheWrite
+1595092.314901: B|13682|mprotect all
+1595092.314916: E|13682
+1595092.314924: B|13682|mprotect code
+1595092.314932: E|13682
+1595092.314937: E|13682
+1595092.314947: B|13682|Generate JIT debug info
+1595092.314981: E|13682
+1595092.315037: E|13682
+1595092.315082: B|13682|TrimMaps
+1595092.315086: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.315138: E|13682
+1595092.315139: E|13682
+1595092.315145: E|13682
+1595092.315150: E|13682
+1595092.315166: B|13682|JIT compiling java.lang.StringBuilder java.lang.StringBuilder.append(java.lang.String)
+1595092.315175: B|13682|Compiling
+1595092.315194: B|13682|transact[android.app.IActivityTaskManager:18]
+1595092.315288: B|13682|ScopedCodeCacheWrite
+1595092.315297: B|13682|mprotect all
+1595092.315309: E|13682
+1595092.315316: B|13682|mprotect code
+1595092.315324: E|13682
+1595092.315327: E|13682
+1595092.315335: B|13682|Generate JIT debug info
+1595092.315360: E|13682
+1595092.315373: E|13682
+1595092.315380: B|13682|TrimMaps
+1595092.315387: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.315402: E|13682
+1595092.315408: E|13682
+1595092.315413: E|13682
+1595092.315571: E|13682
+1595092.316645: B|13682|Choreographer#doFrame
+1595092.316768: B|13682|input
+1595092.316881: E|13682
+1595092.316898: B|13682|traversal
+1595092.318291: B|13682|transact[:1]
+1595092.318498: E|13682
+1595092.318678: B|13682|Thread::Init
+1595092.318773: B|13682|InitStackHwm
+1595092.318801: E|13682
+1595092.318807: B|13682|InitTlsEntryPoints
+1595092.318812: E|13682
+1595092.318816: B|13682|InitInterpreterTls
+1595092.318820: E|13682
+1595092.318824: B|13682|ThreadList::Register
+1595092.318844: E|13682
+1595092.318847: E|13682
+1595092.318990: B|13682|transact[android.magicwin.IHwMagicWindow:3]
+1595092.319193: E|13682
+1595092.319241: B|13682|transact[android.content.pm.IPackageManager:13]
+1595092.319438: E|13682
+1595092.319817: B|13682|transact[android.content.pm.IPackageManager:45]
+1595092.320113: B|13682|dispatchApplyInsets
+1595092.320765: E|13682
+1595092.321408: E|13682
+1595092.321464: B|13682|measure
+1595092.321474: B|13682|Measure Message Send
+1595092.321490: E|13682
+1595092.321516: B|13682|transact[:1]
+1595092.321718: B|13682|VerifyClass androidx.core.view.ViewCompat$Api17Impl
+1595092.321792: E|13682
+1595092.321887: E|13682
+1595092.322025: B|13682|transact[android.view.IWindowManager:28]
+1595092.322184: E|13682
+1595092.323273: B|13682|VerifyClass androidx.core.view.MarginLayoutParamsCompat
+1595092.323371: E|13682
+1595092.324052: B|13682|VerifyClass androidx.constraintlayout.core.widgets.ConstraintWidget$1
+1595092.324221: E|13682
+1595092.324491: B|13682|VerifyClass androidx.constraintlayout.core.widgets.Optimizer
+1595092.324591: E|13682
+1595092.324635: B|13682|VerifyClass androidx.constraintlayout.widget.ConstraintLayout$1
+1595092.324678: E|13682
+1595092.325266: B|13682|VerifyClass androidx.constraintlayout.core.widgets.analyzer.Direct
+1595092.326275: E|13682
+1595092.326427: B|13682|VerifyClass androidx.constraintlayout.core.SolverVariable
+1595092.326773: E|13682
+1595092.326800: B|13682|VerifyClass androidx.constraintlayout.core.SolverVariable$Type
+1595092.326851: E|13682
+1595092.327481: E|13682
+1595092.327759: B|13682|transact[android.view.IWindowSession:4]
+1595092.332908: E|13682
+1595092.334262: B|13682|transact[com.huawei.android.app.IHwActivityTaskManager:72]
+1595092.334430: E|13682
+1595092.334537: B|13682|ResourcesManager#applyConfigurationToResourcesLocked
+1595092.334565: E|13682
+1595092.334812: B|13682|setSurface
+1595092.334868: B|13682|transact[android.hardware.display.IDisplayManager:1]
+1595092.334960: B|13682|Creating EGLContext
+1595092.334973: B|13682|eglGetDisplay
+1595092.334982: B|13682|open
+1595092.334987: E|13682
+1595092.335068: B|13682|getPlatformDisplay
+1595092.335077: E|13682
+1595092.335084: E|13682
+1595092.335086: E|13682
+1595092.335460: B|13682|measure
+1595092.335486: B|13682|Measure Message Send
+1595092.335503: E|13682
+1595092.335613: B|13682|JIT compiling void android.graphics.Rect.readFromParcel(android.os.Parcel)
+1595092.335665: B|13682|Compiling
+1595092.336316: B|13682|ScopedCodeCacheWrite
+1595092.336365: B|13682|mprotect all
+1595092.336397: E|13682
+1595092.336433: B|13682|mprotect code
+1595092.336449: E|13682
+1595092.336457: E|13682
+1595092.336474: B|13682|Generate JIT debug info
+1595092.336575: E|13682
+1595092.336607: E|13682
+1595092.336619: B|13682|TrimMaps
+1595092.336623: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.336648: E|13682
+1595092.336653: E|13682
+1595092.336658: E|13682
+1595092.337044: E|13682
+1595092.337078: B|13682|layout
+1595092.337649: B|13682|JIT compiling int java.lang.String.lastIndexOf(java.lang.String, java.lang.String, int)
+1595092.337664: B|13682|Compiling
+1595092.338091: B|13682|ScopedCodeCacheWrite
+1595092.338107: B|13682|mprotect all
+1595092.338118: E|13682
+1595092.338124: B|13682|mprotect code
+1595092.338137: E|13682
+1595092.338139: E|13682
+1595092.338146: B|13682|Generate JIT debug info
+1595092.338172: E|13682
+1595092.338189: E|13682
+1595092.338198: B|13682|TrimMaps
+1595092.338206: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.338228: E|13682
+1595092.338236: E|13682
+1595092.338239: E|13682
+1595092.338254: B|13682|JIT compiling int java.lang.String.lastIndexOf(java.lang.String, java.lang.String, int)
+1595092.338260: B|13682|Compiling
+1595092.338247: B|13682|VerifyClass androidx.core.view.GravityCompat
+1595092.338336: E|13682
+1595092.338537: E|13682
+1595092.338613: B|13682|ScopedCodeCacheWrite
+1595092.338627: B|13682|mprotect all
+1595092.338635: E|13682
+1595092.338658: B|13682|mprotect code
+1595092.338670: E|13682
+1595092.338672: E|13682
+1595092.338677: B|13682|Generate JIT debug info
+1595092.338701: E|13682
+1595092.338716: E|13682
+1595092.338725: B|13682|TrimMaps
+1595092.338728: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.338749: E|13682
+1595092.338756: E|13682
+1595092.338759: E|13682
+1595092.338781: B|13682|transact[android.view.IWindowSession:12]
+1595092.338918: E|13682
+1595092.339202: B|13682|transact[2]
+1595092.339272: E|13682
+1595092.339414: B|13682|draw
+1595092.346424: E|13682
+1595092.346491: B|13682|open
+1595092.346501: E|13682
+1595092.346706: B|13682|open
+1595092.346719: E|13682
+1595092.346786: B|13682|open
+1595092.346798: E|13682
+1595092.346857: B|13682|open
+1595092.346869: E|13682
+1595092.346929: B|13682|open
+1595092.346941: E|13682
+1595092.347011: B|13682|open
+1595092.347021: E|13682
+1595092.347077: B|13682|open
+1595092.347088: E|13682
+1595092.347145: B|13682|open
+1595092.347155: E|13682
+1595092.347213: B|13682|open
+1595092.347222: E|13682
+1595092.347276: B|13682|open
+1595092.347285: E|13682
+1595092.347341: B|13682|open
+1595092.347351: E|13682
+1595092.347412: B|13682|open
+1595092.347422: E|13682
+1595092.347480: B|13682|open
+1595092.347490: E|13682
+1595092.347544: B|13682|open
+1595092.347553: E|13682
+1595092.347611: B|13682|open
+1595092.347621: E|13682
+1595092.347685: B|13682|open
+1595092.347695: E|13682
+1595092.347749: B|13682|open
+1595092.347760: E|13682
+1595092.347818: B|13682|open
+1595092.347827: E|13682
+1595092.347895: B|13682|open
+1595092.347906: E|13682
+1595092.347983: B|13682|open
+1595092.347993: E|13682
+1595092.348044: B|13682|open
+1595092.348054: E|13682
+1595092.348113: B|13682|open
+1595092.348122: E|13682
+1595092.348178: B|13682|open
+1595092.348188: E|13682
+1595092.348246: B|13682|open
+1595092.348255: E|13682
+1595092.348311: B|13682|open
+1595092.348321: E|13682
+1595092.348377: B|13682|open
+1595092.348387: E|13682
+1595092.348443: B|13682|open
+1595092.348452: E|13682
+1595092.348507: B|13682|open
+1595092.348517: E|13682
+1595092.348572: B|13682|open
+1595092.348582: E|13682
+1595092.348638: B|13682|open
+1595092.348648: E|13682
+1595092.348703: B|13682|open
+1595092.348713: E|13682
+1595092.348768: B|13682|open
+1595092.348775: E|13682
+1595092.348830: B|13682|open
+1595092.348840: E|13682
+1595092.348896: B|13682|open
+1595092.348906: E|13682
+1595092.348959: B|13682|open
+1595092.348968: E|13682
+1595092.349064: B|13682|open
+1595092.349074: E|13682
+1595092.349165: B|13682|open
+1595092.349175: E|13682
+1595092.349263: B|13682|open
+1595092.349275: E|13682
+1595092.349362: B|13682|open
+1595092.349373: E|13682
+1595092.349431: B|13682|open
+1595092.349440: E|13682
+1595092.349495: B|13682|open
+1595092.349506: E|13682
+1595092.349557: B|13682|open
+1595092.349566: E|13682
+1595092.349615: B|13682|open
+1595092.349624: E|13682
+1595092.349674: B|13682|open
+1595092.349682: E|13682
+1595092.349733: B|13682|open
+1595092.349745: E|13682
+1595092.349797: B|13682|open
+1595092.349801: E|13682
+1595092.349851: B|13682|open
+1595092.349855: E|13682
+1595092.349880: B|13682|open
+1595092.349884: E|13682
+1595092.349906: B|13682|open
+1595092.349910: E|13682
+1595092.349957: B|13682|open
+1595092.349961: E|13682
+1595092.350010: B|13682|open
+1595092.350013: E|13682
+1595092.350061: B|13682|open
+1595092.350065: E|13682
+1595092.350114: B|13682|open
+1595092.350118: E|13682
+1595092.350165: B|13682|open
+1595092.350170: E|13682
+1595092.350221: B|13682|open
+1595092.350225: E|13682
+1595092.350272: B|13682|open
+1595092.350276: E|13682
+1595092.350323: B|13682|open
+1595092.350327: E|13682
+1595092.350376: B|13682|open
+1595092.350381: E|13682
+1595092.350427: B|13682|open
+1595092.350431: E|13682
+1595092.350479: B|13682|open
+1595092.350484: E|13682
+1595092.350532: B|13682|open
+1595092.350544: E|13682
+1595092.350594: B|13682|open
+1595092.350603: E|13682
+1595092.350658: B|13682|initShaderDiskCache
+1595092.350738: E|13682
+1595092.350844: B|13682|query
+1595092.350855: E|13682
+1595092.350885: B|13682|connect
+1595092.351171: E|13682
+1595092.351203: B|13682|setSwapInterval
+1595092.351214: E|13682
+1595092.351338: B|13682|query
+1595092.351348: E|13682
+1595092.351354: B|13682|query
+1595092.351436: E|13682
+1595092.351486: B|13682|query
+1595092.351527: E|13682
+1595092.351537: B|13682|setBufferCount
+1595092.351626: E|13682
+1595092.351637: E|13682
+1595092.351764: B|13682|Record View#draw()
+1595092.353895: E|13682
+1595092.354006: B|13682|DrawFrame
+1595092.354107: B|13682|query
+1595092.354260: E|13682
+1595092.354274: B|13682|query
+1595092.354344: E|13682
+1595092.354355: B|13682|syncFrameState
+1595092.354384: B|13682|prepareTree
+1595092.354425: E|13682
+1595092.354437: E|13682
+1595092.354452: B|13682|query
+1595092.354464: E|13682
+1595092.354468: B|13682|query
+1595092.354470: E|13682
+1595092.354467: E|13682
+1595092.354486: B|13682|query
+1595092.354489: E|13682
+1595092.354493: B|13682|query
+1595092.354494: E|13682
+1595092.354496: B|13682|query
+1595092.354498: E|13682
+1595092.354502: B|13682|setBuffersDimensions
+1595092.354505: E|13682
+1595092.354510: B|13682|dequeueBuffer
+1595092.356747: B|13682|HWC release fence 0 has signaled
+1595092.356769: E|13682
+1595092.361319: B|13682|importBuffer
+1595092.361495: E|13682
+1595092.361519: E|13682
+1595092.361534: B|13682|query
+1595092.361620: E|13682
+1595092.362190: B|13682|eglBeginFrame
+1595092.362210: E|13682
+1595092.362675: B|13682|flush commands
+1595092.370955: B|13682|ShaderCache::load
+1595092.370988: E|13682
+1595092.383275: B|13682|ShaderCache::store
+1595092.383381: E|13682
+1595092.383543: B|13682|ShaderCache::load
+1595092.383558: E|13682
+1595092.388203: B|13682|ShaderCache::store
+1595092.388246: E|13682
+1595092.388327: B|13682|ShaderCache::load
+1595092.388341: E|13682
+1595092.393214: B|13682|ShaderCache::store
+1595092.393252: E|13682
+1595092.393377: E|13682
+1595092.393409: B|13682|eglSwapBuffersWithDamageKHR
+1595092.393433: B|13682|setSurfaceDamage
+1595092.393445: E|13682
+1595092.394776: B|13682|setBuffersTransform
+1595092.394798: E|13682
+1595092.394835: B|13682|queueBuffer
+1595092.395999: B|13682|GPU completion fence 0 has signaled
+1595092.396014: E|13682
+1595092.396025: E|13682
+1595092.396051: E|13682
+1595092.396065: B|13682|query
+1595092.396077: E|13682
+1595092.396082: B|13682|query
+1595092.396089: E|13682
+1595092.396116: B|13682|frameComplete 1
+1595092.396349: E|13682
+1595092.396393: E|13682
+1595092.396881: E|13682
+1595092.396943: E|13682
+1595092.397152: B|13682|transact[android.view.IWindowSession:10]
+1595092.397455: E|13682
+1595092.397757: B|13682|Theme::ApplyStyle
+1595092.397829: E|13682
+1595092.397914: B|13682|Theme::ApplyStyle
+1595092.397929: E|13682
+1595092.397965: B|13682|VerifyClass androidx.appcompat.view.menu.MenuBuilder
+1595092.399371: E|13682
+1595092.399472: B|13682|VerifyClass androidx.appcompat.app.AppCompatDelegateImpl$ActionMenuPresenterCallback
+1595092.399513: E|13682
+1595092.399551: B|13682|VerifyClass androidx.appcompat.view.menu.BaseMenuPresenter
+1595092.399783: E|13682
+1595092.399811: B|13682|VerifyClass androidx.appcompat.widget.ActionMenuPresenter
+1595092.401138: B|13682|Lock contention on ClassLinker classes lock (owner tid: 18446744073709551615)
+1595092.401163: E|13682
+1595092.401391: E|13682
+1595092.401514: B|13682|VerifyClass androidx.appcompat.widget.ActionMenuPresenter$PopupPresenterCallback
+1595092.401566: E|13682
+1595092.401584: B|13682|VerifyClass androidx.appcompat.widget.LinearLayoutCompat
+1595092.405058: E|13682
+1595092.405099: B|13682|VerifyClass androidx.appcompat.widget.ActionMenuView
+1595092.406525: E|13682
+1595092.407427: B|13682|notifyFramePending
+1595092.407448: E|13682
+1595092.407732: B|13682|VerifyClass androidx.appcompat.widget.Toolbar$ExpandedActionViewMenuPresenter
+1595092.408048: E|13682
+1595092.408166: B|13682|VerifyClass androidx.appcompat.widget.AppCompatImageView
+1595092.408374: E|13682
+1595092.408399: B|13682|VerifyClass androidx.appcompat.widget.ActionMenuPresenter$OverflowMenuButton
+1595092.408846: E|13682
+1595092.409632: B|13682|JIT compiling int java.util.HashMap.hash(java.lang.Object)
+1595092.409650: B|13682|Compiling
+1595092.409910: B|13682|ScopedCodeCacheWrite
+1595092.409935: B|13682|mprotect all
+1595092.409952: E|13682
+1595092.409963: B|13682|mprotect code
+1595092.409971: E|13682
+1595092.409975: E|13682
+1595092.409984: B|13682|Generate JIT debug info
+1595092.410021: E|13682
+1595092.410037: E|13682
+1595092.410044: B|13682|TrimMaps
+1595092.410049: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.410068: E|13682
+1595092.410073: E|13682
+1595092.410078: E|13682
+1595092.410095: B|13682|JIT compiling int java.lang.String.indexOf(java.lang.String, int)
+1595092.410103: B|13682|Compiling
+1595092.410218: B|13682|ScopedCodeCacheWrite
+1595092.410240: B|13682|mprotect all
+1595092.410251: E|13682
+1595092.410259: B|13682|mprotect code
+1595092.410266: E|13682
+1595092.410270: E|13682
+1595092.410277: B|13682|Generate JIT debug info
+1595092.410300: E|13682
+1595092.410313: E|13682
+1595092.410319: B|13682|TrimMaps
+1595092.410323: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.410341: E|13682
+1595092.410347: E|13682
+1595092.410351: E|13682
+1595092.410673: B|13682|VerifyClass androidx.appcompat.widget.ForwardingListener
+1595092.411563: E|13682
+1595092.411608: B|13682|VerifyClass androidx.appcompat.widget.ActionMenuPresenter$OverflowMenuButton$1
+1595092.411762: E|13682
+1595092.412246: B|13682|VerifyClass androidx.appcompat.view.SupportMenuInflater
+1595092.412543: E|13682
+1595092.413035: B|13682|transact[android.hardware.input.IInputManager:19]
+1595092.413696: E|13682
+1595092.413751: B|13682|transact[android.hardware.input.IInputManager:2]
+1595092.413815: E|13682
+1595092.413894: B|13682|transact[android.hardware.input.IInputManager:1]
+1595092.414527: E|13682
+1595092.416760: B|13682|transact[com.huawei.android.view.IHwWindowManager:78]
+1595092.417165: E|13682
+1595092.417498: B|13682|transact[com.android.internal.view.IInputMethodManager:9]
+1595092.419563: E|13682
+1595092.420105: B|13682|Choreographer#doFrame
+1595092.420208: B|13682|input
+1595092.420255: E|13682
+1595092.420275: B|13682|traversal
+1595092.420462: B|13682|measure
+1595092.420480: B|13682|Measure Message Send
+1595092.420496: E|13682
+1595092.421621: E|13682
+1595092.421666: B|13682|layout
+1595092.422238: E|13682
+1595092.422282: B|13682|draw
+1595092.422330: B|13682|Record View#draw()
+1595092.422811: E|13682
+1595092.422933: B|13682|DrawFrame
+1595092.422948: B|13682|query
+1595092.423119: E|13682
+1595092.423176: B|13682|query
+1595092.423304: E|13682
+1595092.423321: B|13682|syncFrameState
+1595092.423331: B|13682|prepareTree
+1595092.423372: E|13682
+1595092.423376: E|13682
+1595092.423395: B|13682|query
+1595092.423399: E|13682
+1595092.423403: B|13682|query
+1595092.423405: E|13682
+1595092.423411: B|13682|query
+1595092.423413: E|13682
+1595092.423417: B|13682|query
+1595092.423419: E|13682
+1595092.423421: B|13682|query
+1595092.423423: E|13682
+1595092.423427: B|13682|setBuffersDimensions
+1595092.423430: E|13682
+1595092.423434: B|13682|dequeueBuffer
+1595092.423442: E|13682
+1595092.423540: E|13682
+1595092.423574: E|13682
+1595092.424279: B|13682|HWC release fence 1 has signaled
+1595092.424302: E|13682
+1595092.424429: B|13682|importBuffer
+1595092.424488: B|13682|Lock contention on InternTable lock (owner tid: 13682)
+1595092.424601: E|13682
+1595092.424608: E|13682
+1595092.424630: E|13682
+1595092.424637: B|13682|query
+1595092.424672: B|13682|Lock contention on ClassLinker classes lock (owner tid: 18446744073709551615)
+1595092.424687: B|13682|JIT compiling void java.lang.Object.<init>()
+1595092.424697: B|13682|Compiling
+1595092.424727: E|13682
+1595092.424754: E|13682
+1595092.424858: B|13682|ScopedCodeCacheWrite
+1595092.424866: B|13682|mprotect all
+1595092.424883: E|13682
+1595092.424893: B|13682|mprotect code
+1595092.424926: B|13682|transact[17]
+1595092.424968: E|13682
+1595092.425071: B|13682|transact[17]
+1595092.425102: E|13682
+1595092.426096: B|13682|eglBeginFrame
+1595092.426118: E|13682
+1595092.426241: B|13682|flush commands
+1595092.426462: E|13682
+1595092.426484: B|13682|eglSwapBuffersWithDamageKHR
+1595092.426495: B|13682|setSurfaceDamage
+1595092.426506: E|13682
+1595092.426593: E|13682
+1595092.426613: E|13682
+1595092.426628: B|13682|Generate JIT debug info
+1595092.426688: B|13682|setBuffersTransform
+1595092.426792: E|13682
+1595092.426823: E|13682
+1595092.426830: B|13682|queueBuffer
+1595092.426862: E|13682
+1595092.426873: B|13682|TrimMaps
+1595092.426877: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.426900: E|13682
+1595092.426906: E|13682
+1595092.426912: E|13682
+1595092.426942: B|13682|JIT compiling void android.os.Parcel.writeInt(int)
+1595092.426951: B|13682|Compiling
+1595092.427149: B|13682|ScopedCodeCacheWrite
+1595092.427157: B|13682|mprotect all
+1595092.427172: E|13682
+1595092.427181: B|13682|mprotect code
+1595092.427189: E|13682
+1595092.427193: E|13682
+1595092.427201: B|13682|Generate JIT debug info
+1595092.427232: E|13682
+1595092.427245: E|13682
+1595092.427252: B|13682|TrimMaps
+1595092.427256: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.427273: E|13682
+1595092.427279: E|13682
+1595092.427284: E|13682
+1595092.427708: B|13682|GPU completion fence 1 has signaled
+1595092.427734: E|13682
+1595092.427740: E|13682
+1595092.427771: E|13682
+1595092.427781: B|13682|query
+1595092.427784: E|13682
+1595092.427789: B|13682|query
+1595092.427793: E|13682
+1595092.427845: E|13682
+1595092.776238: B|13682|VerifyClass androidx.core.os.TraceCompat
+1595092.776533: E|13682
+1595092.776574: B|13682|EmojiCompat.EmojiCompatInitializer.run
+1595092.776664: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$MetadataRepoLoaderCallback
+1595092.776688: E|13682
+1595092.776701: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$CompatInternal19$1
+1595092.776736: E|13682
+1595092.776760: B|13682|VerifyClass androidx.emoji2.text.ConcurrencyHelpers$$ExternalSyntheticLambda1
+1595092.776785: E|13682
+1595092.776889: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$BackgroundDefaultLoader$$ExternalSyntheticLambda0
+1595092.776917: E|13682
+1595092.777191: E|13682
+1595092.777222: B|13682|Thread::Init
+1595092.777232: B|13682|InitStackHwm
+1595092.777246: E|13682
+1595092.777251: B|13682|InitTlsEntryPoints
+1595092.777257: E|13682
+1595092.777260: B|13682|InitInterpreterTls
+1595092.777263: E|13682
+1595092.777267: B|13682|ThreadList::Register
+1595092.777286: E|13682
+1595092.777289: E|13682
+1595092.777390: B|13682|VerifyClass androidx.emoji2.text.DefaultEmojiCompatConfig
+1595092.777432: E|13682
+1595092.777448: B|13682|VerifyClass androidx.emoji2.text.DefaultEmojiCompatConfig$DefaultEmojiCompatConfigFactory
+1595092.777831: E|13682
+1595092.777887: B|13682|VerifyClass androidx.emoji2.text.DefaultEmojiCompatConfig$DefaultEmojiCompatConfigHelper
+1595092.777952: E|13682
+1595092.777968: B|13682|VerifyClass androidx.emoji2.text.DefaultEmojiCompatConfig$DefaultEmojiCompatConfigHelper_API19
+1595092.778004: E|13682
+1595092.778018: B|13682|VerifyClass androidx.emoji2.text.DefaultEmojiCompatConfig$DefaultEmojiCompatConfigHelper_API28
+1595092.778036: E|13682
+1595092.778263: B|13682|transact[android.content.pm.IPackageManager:53]
+1595092.778684: E|13682
+1595092.779194: B|13682|transact[android.content.pm.IPackageManager:3]
+1595092.779426: E|13682
+1595092.779703: B|13682|VerifyClass androidx.core.provider.FontRequest
+1595092.779921: E|13682
+1595092.779983: B|13682|VerifyClass androidx.emoji2.text.FontRequestEmojiCompatConfig
+1595092.780165: E|13682
+1595092.780193: B|13682|VerifyClass androidx.emoji2.text.FontRequestEmojiCompatConfig$FontProviderHelper
+1595092.780357: E|13682
+1595092.780382: B|13682|VerifyClass androidx.emoji2.text.FontRequestEmojiCompatConfig$FontRequestMetadataLoader
+1595092.780773: E|13682
+1595092.780947: B|13682|VerifyClass androidx.emoji2.text.EmojiCompatInitializer$BackgroundDefaultLoader$1
+1595092.780997: E|13682
+1595092.781035: B|13682|VerifyClass androidx.emoji2.text.FontRequestEmojiCompatConfig$FontRequestMetadataLoader$$ExternalSyntheticLambda0
+1595092.781063: E|13682
+1595092.781125: B|13682|VerifyClass androidx.core.provider.FontsContractCompat
+1595092.781353: E|13682
+1595092.781388: B|13682|VerifyClass androidx.core.provider.FontProvider
+1595092.781823: E|13682
+1595092.781851: B|13682|VerifyClass androidx.core.provider.FontProvider$1
+1595092.781889: E|13682
+1595092.781988: B|13682|transact[android.content.pm.IPackageManager:58]
+1595092.782218: E|13682
+1595092.782464: B|13682|transact[android.content.pm.IPackageManager:3]
+1595092.782703: E|13682
+1595092.783612: B|13682|transact[:1]
+1595092.783787: E|13682
+1595092.784352: B|13682|transact[huawei.android.security.IHwSecurityService:3]
+1595092.784551: E|13682
+1595092.784815: B|13682|transact[huawei.android.security.IHwPermissionManager:6]
+1595092.784904: E|13682
+1595092.785309: B|13682|transact[android.app.IActivityManager:20]
+1595092.788352: E|13682
+1595092.788709: B|13682|JIT compiling long android.os.Parcel.access$000(android.os.Parcel)
+1595092.788755: B|13682|Compiling
+1595092.789071: B|13682|ScopedCodeCacheWrite
+1595092.789106: B|13682|mprotect all
+1595092.789137: E|13682
+1595092.789169: B|13682|mprotect code
+1595092.789199: E|13682
+1595092.789221: E|13682
+1595092.789252: B|13682|Generate JIT debug info
+1595092.789351: E|13682
+1595092.789385: B|13682|transact[android.content.IContentProvider:1]
+1595092.789405: E|13682
+1595092.789437: B|13682|TrimMaps
+1595092.789460: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.789519: E|13682
+1595092.789544: E|13682
+1595092.789576: E|13682
+1595092.791331: E|13682
+1595092.791633: B|13682|transact[android.app.IActivityManager:22]
+1595092.791772: E|13682
+1595092.791899: B|13682|transact[android.app.IActivityManager:22]
+1595092.792006: E|13682
+1595092.792208: B|13682|transact[android.content.IBulkCursor:1]
+1595092.792725: E|13682
+1595092.792965: B|13682|VerifyClass androidx.core.provider.FontsContractCompat$FontInfo
+1595092.793068: E|13682
+1595092.793190: B|13682|transact[android.content.IBulkCursor:7]
+1595092.793369: E|13682
+1595092.793437: B|13682|transact[android.app.IActivityManager:22]
+1595092.793551: E|13682
+1595092.793706: B|13682|VerifyClass androidx.core.provider.FontsContractCompat$FontFamilyResult
+1595092.793769: E|13682
+1595092.793802: B|13682|EmojiCompat.FontRequestEmojiCompatConfig.buildTypeface
+1595092.793826: B|13682|VerifyClass androidx.core.graphics.TypefaceCompat
+1595092.794420: E|13682
+1595092.794451: B|13682|VerifyClass androidx.core.graphics.TypefaceCompatBaseImpl
+1595092.794834: E|13682
+1595092.794859: B|13682|VerifyClass androidx.core.graphics.TypefaceCompatApi29Impl
+1595092.795176: E|13682
+1595092.795389: B|13682|transact[android.content.IContentProvider:23]
+1595092.796061: E|13682
+1595092.796381: B|13682|transact[android.app.IActivityManager:22]
+1595092.796667: E|13682
+1595092.796720: B|13682|transact[android.app.IActivityManager:22]
+1595092.796847: E|13682
+1595092.799822: B|13682|transact[android.app.IActivityManager:22]
+1595092.799994: E|13682
+1595092.801613: B|13682|VerifyClass androidx.core.graphics.TypefaceCompatUtil
+1595092.801983: E|13682
+1595092.802118: B|13682|transact[android.content.IContentProvider:23]
+1595092.802630: E|13682
+1595092.802924: B|13682|transact[android.app.IActivityManager:22]
+1595092.803135: E|13682
+1595092.803192: B|13682|transact[android.app.IActivityManager:22]
+1595092.803364: E|13682
+1595092.803559: B|13682|transact[android.app.IActivityManager:22]
+1595092.803703: E|13682
+1595092.803852: B|13682|SuspendThreadByThreadId suspended EmojiCompatInitializer id=3
+1595092.803905: B|13682|Lock contention on thread suspend count lock (owner tid: 13682)
+1595092.803912: E|13682
+1595092.803918: E|13682
+1595092.803926: B|13682|Lock contention on a monitor lock (owner tid: 13682)
+1595092.803948: B|13682|monitor contention with owner EmojiCompatInitializer (13917) waiters=0 blocking from android.os.Message android.os.MessageQueue.next()(MessageQueue.java:365)
+1595092.804022: E|13682
+1595092.804044: E|13682
+1595092.804057: B|13682|VerifyClass androidx.emoji2.text.MetadataRepo
+1595092.804327: E|13682
+1595092.804375: B|13682|EmojiCompat.MetadataRepo.create
+1595092.804398: B|13682|VerifyClass androidx.emoji2.text.MetadataListReader
+1595092.804723: E|13682
+1595092.804769: B|13682|VerifyClass androidx.emoji2.text.MetadataListReader$ByteBufferReader
+1595092.804840: E|13682
+1595092.804956: B|13682|VerifyClass androidx.emoji2.text.MetadataListReader$OffsetInfo
+1595092.804987: E|13682
+1595092.805009: B|13682|VerifyClass androidx.emoji2.text.flatbuffer.Table
+1595092.805363: E|13682
+1595092.805385: B|13682|VerifyClass androidx.emoji2.text.flatbuffer.MetadataList
+1595092.805678: E|13682
+1595092.805707: B|13682|VerifyClass androidx.emoji2.text.flatbuffer.Utf8
+1595092.805768: E|13682
+1595092.805786: B|13682|VerifyClass androidx.emoji2.text.flatbuffer.Utf8Safe
+1595092.806226: E|13682
+1595092.806266: B|13682|VerifyClass androidx.emoji2.text.MetadataRepo$Node
+1595092.806327: E|13682
+1595092.806385: B|13682|VerifyClass androidx.emoji2.text.EmojiMetadata
+1595092.806538: E|13682
+1595092.806583: B|13682|VerifyClass androidx.emoji2.text.flatbuffer.MetadataItem
+1595092.806784: E|13682
+1595092.808400: B|13682|JIT compiling int libcore.io.Memory.peekInt(long, boolean)
+1595092.808423: B|13682|Compiling
+1595092.808592: B|13682|ScopedCodeCacheWrite
+1595092.808609: B|13682|mprotect all
+1595092.808624: E|13682
+1595092.808639: B|13682|mprotect code
+1595092.808653: E|13682
+1595092.808657: E|13682
+1595092.808665: B|13682|Generate JIT debug info
+1595092.808706: E|13682
+1595092.808728: E|13682
+1595092.808742: B|13682|TrimMaps
+1595092.808753: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.808771: E|13682
+1595092.808783: E|13682
+1595092.808794: E|13682
+1595092.809215: B|13682|JIT compiling java.lang.Object java.lang.ThreadLocal.get()
+1595092.809231: B|13682|Compiling
+1595092.809430: B|13682|ScopedCodeCacheWrite
+1595092.809450: B|13682|mprotect all
+1595092.809461: E|13682
+1595092.809469: B|13682|mprotect code
+1595092.809484: E|13682
+1595092.809488: E|13682
+1595092.809495: B|13682|Generate JIT debug info
+1595092.809530: E|13682
+1595092.809551: E|13682
+1595092.809564: B|13682|TrimMaps
+1595092.809572: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.809593: E|13682
+1595092.809603: E|13682
+1595092.809612: E|13682
+1595092.809641: B|13682|JIT compiling short libcore.io.Memory.peekShort(long, boolean)
+1595092.809656: B|13682|Compiling
+1595092.809735: B|13682|ScopedCodeCacheWrite
+1595092.809751: B|13682|mprotect all
+1595092.809761: E|13682
+1595092.809767: B|13682|mprotect code
+1595092.809780: E|13682
+1595092.809784: E|13682
+1595092.809790: B|13682|Generate JIT debug info
+1595092.809817: E|13682
+1595092.809837: E|13682
+1595092.809849: B|13682|TrimMaps
+1595092.809857: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.809873: E|13682
+1595092.809882: E|13682
+1595092.809887: E|13682
+1595092.810078: B|13682|JIT compiling int java.nio.DirectByteBuffer.getInt(long)
+1595092.810091: B|13682|Compiling
+1595092.810197: B|13682|ScopedCodeCacheWrite
+1595092.810213: B|13682|mprotect all
+1595092.810224: E|13682
+1595092.810231: B|13682|mprotect code
+1595092.810243: E|13682
+1595092.810247: E|13682
+1595092.810253: B|13682|Generate JIT debug info
+1595092.810278: E|13682
+1595092.810297: E|13682
+1595092.810310: B|13682|TrimMaps
+1595092.810319: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.810339: E|13682
+1595092.810350: E|13682
+1595092.810361: E|13682
+1595092.811423: B|13682|JIT compiling java.lang.ThreadLocal$ThreadLocalMap$Entry java.lang.ThreadLocal$ThreadLocalMap.getEntry(java.lang.ThreadLocal)
+1595092.811439: B|13682|Compiling
+1595092.811651: B|13682|ScopedCodeCacheWrite
+1595092.811668: B|13682|mprotect all
+1595092.811678: E|13682
+1595092.811685: B|13682|mprotect code
+1595092.811698: E|13682
+1595092.811701: E|13682
+1595092.811708: B|13682|Generate JIT debug info
+1595092.811735: E|13682
+1595092.811755: E|13682
+1595092.811769: B|13682|TrimMaps
+1595092.811777: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.811799: E|13682
+1595092.811810: E|13682
+1595092.811819: E|13682
+1595092.811837: B|13682|JIT compiling int java.nio.DirectByteBuffer.getInt(int)
+1595092.811851: B|13682|Compiling
+1595092.812032: B|13682|ScopedCodeCacheWrite
+1595092.812050: B|13682|mprotect all
+1595092.812061: E|13682
+1595092.812068: B|13682|mprotect code
+1595092.812083: E|13682
+1595092.812086: E|13682
+1595092.812093: B|13682|Generate JIT debug info
+1595092.812118: E|13682
+1595092.812138: E|13682
+1595092.812151: B|13682|TrimMaps
+1595092.812161: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.812178: E|13682
+1595092.812189: E|13682
+1595092.812198: E|13682
+1595092.812218: B|13682|JIT compiling short java.nio.DirectByteBuffer.getShort(long)
+1595092.812232: B|13682|Compiling
+1595092.812327: B|13682|ScopedCodeCacheWrite
+1595092.812345: B|13682|mprotect all
+1595092.812355: E|13682
+1595092.812362: B|13682|mprotect code
+1595092.812370: E|13682
+1595092.812373: E|13682
+1595092.812381: B|13682|Generate JIT debug info
+1595092.812411: E|13682
+1595092.812430: E|13682
+1595092.812443: B|13682|TrimMaps
+1595092.812451: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.812471: E|13682
+1595092.812482: E|13682
+1595092.812491: E|13682
+1595092.812997: B|13682|JIT compiling long java.nio.DirectByteBuffer.ix(int)
+1595092.813012: B|13682|Compiling
+1595092.813074: B|13682|ScopedCodeCacheWrite
+1595092.813087: B|13682|mprotect all
+1595092.813097: E|13682
+1595092.813104: B|13682|mprotect code
+1595092.813117: E|13682
+1595092.813120: E|13682
+1595092.813127: B|13682|Generate JIT debug info
+1595092.813153: E|13682
+1595092.813173: E|13682
+1595092.813186: B|13682|TrimMaps
+1595092.813194: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.813206: E|13682
+1595092.813217: E|13682
+1595092.813226: E|13682
+1595092.813243: B|13682|JIT compiling int java.nio.Buffer.checkIndex(int, int)
+1595092.813256: B|13682|Compiling
+1595092.813473: B|13682|ScopedCodeCacheWrite
+1595092.813491: B|13682|mprotect all
+1595092.813501: E|13682
+1595092.813509: B|13682|mprotect code
+1595092.813524: E|13682
+1595092.813528: E|13682
+1595092.813535: B|13682|Generate JIT debug info
+1595092.813562: E|13682
+1595092.813583: E|13682
+1595092.813596: B|13682|TrimMaps
+1595092.813603: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.813622: E|13682
+1595092.813633: E|13682
+1595092.813641: E|13682
+1595092.813737: B|13682|JIT compiling short java.nio.DirectByteBuffer.getShort(int)
+1595092.813752: B|13682|Compiling
+1595092.813905: B|13682|ScopedCodeCacheWrite
+1595092.813924: B|13682|mprotect all
+1595092.813935: E|13682
+1595092.813943: B|13682|mprotect code
+1595092.813958: E|13682
+1595092.813961: E|13682
+1595092.813968: B|13682|Generate JIT debug info
+1595092.813996: E|13682
+1595092.814017: E|13682
+1595092.814029: B|13682|TrimMaps
+1595092.814037: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.814060: E|13682
+1595092.814071: E|13682
+1595092.814080: E|13682
+1595092.814149: B|13682|JIT compiling java.lang.ThreadLocal$ThreadLocalMap$Entry java.lang.ThreadLocal$ThreadLocalMap.access$000(java.lang.ThreadLocal$ThreadLocalMap, java.lang.ThreadLocal)
+1595092.814168: B|13682|Compiling
+1595092.814254: B|13682|ScopedCodeCacheWrite
+1595092.814271: B|13682|mprotect all
+1595092.814281: E|13682
+1595092.814288: B|13682|mprotect code
+1595092.814302: E|13682
+1595092.814305: E|13682
+1595092.814312: B|13682|Generate JIT debug info
+1595092.814338: E|13682
+1595092.814358: E|13682
+1595092.814370: B|13682|TrimMaps
+1595092.814378: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.814398: E|13682
+1595092.814408: E|13682
+1595092.814416: E|13682
+1595092.815456: B|13682|JIT compiling java.lang.ThreadLocal$ThreadLocalMap java.lang.ThreadLocal.getMap(java.lang.Thread)
+1595092.815471: B|13682|Compiling
+1595092.815550: B|13682|ScopedCodeCacheWrite
+1595092.815566: B|13682|mprotect all
+1595092.815576: E|13682
+1595092.815583: B|13682|mprotect code
+1595092.815596: E|13682
+1595092.815599: E|13682
+1595092.815606: B|13682|Generate JIT debug info
+1595092.815632: E|13682
+1595092.815651: E|13682
+1595092.815664: B|13682|TrimMaps
+1595092.815674: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.815696: E|13682
+1595092.815707: E|13682
+1595092.815718: E|13682
+1595092.815868: B|13682|JIT compiling void androidx.emoji2.text.flatbuffer.Table.__reset(int, java.nio.ByteBuffer)
+1595092.815909: B|13682|Compiling
+1595092.816059: B|13682|ScopedCodeCacheWrite
+1595092.816076: B|13682|mprotect all
+1595092.816086: E|13682
+1595092.816093: B|13682|mprotect code
+1595092.816106: E|13682
+1595092.816109: E|13682
+1595092.816116: B|13682|Generate JIT debug info
+1595092.816143: E|13682
+1595092.816161: E|13682
+1595092.816173: B|13682|TrimMaps
+1595092.816181: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.816247: E|13682
+1595092.816263: E|13682
+1595092.816275: E|13682
+1595092.816307: B|13682|JIT compiling androidx.emoji2.text.flatbuffer.MetadataItem androidx.emoji2.text.EmojiMetadata.getMetadataItem()
+1595092.816325: B|13682|Compiling
+1595092.816647: B|13682|ScopedCodeCacheWrite
+1595092.816683: B|13682|mprotect all
+1595092.816738: E|13682
+1595092.816776: B|13682|mprotect code
+1595092.816794: E|13682
+1595092.816798: E|13682
+1595092.816805: B|13682|Generate JIT debug info
+1595092.816837: E|13682
+1595092.816859: E|13682
+1595092.816872: B|13682|TrimMaps
+1595092.816880: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.816915: E|13682
+1595092.816925: E|13682
+1595092.816935: E|13682
+1595092.816957: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.Table.__offset(int)
+1595092.816974: B|13682|Compiling
+1595092.817094: B|13682|ScopedCodeCacheWrite
+1595092.817110: B|13682|mprotect all
+1595092.817121: E|13682
+1595092.817128: B|13682|mprotect code
+1595092.817144: E|13682
+1595092.817148: E|13682
+1595092.817154: B|13682|Generate JIT debug info
+1595092.817181: E|13682
+1595092.817201: E|13682
+1595092.817214: B|13682|TrimMaps
+1595092.817222: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.817240: E|13682
+1595092.817250: E|13682
+1595092.817259: E|13682
+1595092.817278: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.Table.__vector(int)
+1595092.817293: B|13682|Compiling
+1595092.817395: B|13682|ScopedCodeCacheWrite
+1595092.817410: B|13682|mprotect all
+1595092.817420: E|13682
+1595092.817427: B|13682|mprotect code
+1595092.817439: E|13682
+1595092.817443: E|13682
+1595092.817450: B|13682|Generate JIT debug info
+1595092.817475: E|13682
+1595092.817494: E|13682
+1595092.817506: B|13682|TrimMaps
+1595092.817515: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.817537: E|13682
+1595092.817548: E|13682
+1595092.817557: E|13682
+1595092.817578: B|13682|JIT compiling int java.lang.ThreadLocal.access$400(java.lang.ThreadLocal)
+1595092.817593: B|13682|Compiling
+1595092.817657: B|13682|ScopedCodeCacheWrite
+1595092.817672: B|13682|mprotect all
+1595092.817682: E|13682
+1595092.817688: B|13682|mprotect code
+1595092.817702: E|13682
+1595092.817705: E|13682
+1595092.817711: B|13682|Generate JIT debug info
+1595092.817736: E|13682
+1595092.817755: E|13682
+1595092.817768: B|13682|TrimMaps
+1595092.817777: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.817802: E|13682
+1595092.817814: E|13682
+1595092.817824: E|13682
+1595092.817841: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.Table.__indirect(int)
+1595092.817857: B|13682|Compiling
+1595092.817946: B|13682|ScopedCodeCacheWrite
+1595092.817960: B|13682|mprotect all
+1595092.817970: E|13682
+1595092.817977: B|13682|mprotect code
+1595092.817989: E|13682
+1595092.817993: E|13682
+1595092.817999: B|13682|Generate JIT debug info
+1595092.818026: E|13682
+1595092.818045: E|13682
+1595092.818057: B|13682|TrimMaps
+1595092.818065: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.818085: E|13682
+1595092.818094: E|13682
+1595092.818100: E|13682
+1595092.818285: B|13682|JIT compiling androidx.emoji2.text.flatbuffer.MetadataItem androidx.emoji2.text.flatbuffer.MetadataList.list(androidx.emoji2.text.flatbuffer.MetadataItem, int)
+1595092.818302: B|13682|Compiling
+1595092.818449: B|13682|ScopedCodeCacheWrite
+1595092.818466: B|13682|mprotect all
+1595092.818476: E|13682
+1595092.818484: B|13682|mprotect code
+1595092.818496: E|13682
+1595092.818500: E|13682
+1595092.818507: B|13682|Generate JIT debug info
+1595092.818541: E|13682
+1595092.818562: E|13682
+1595092.818574: B|13682|TrimMaps
+1595092.818577: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.818600: E|13682
+1595092.818612: E|13682
+1595092.818621: E|13682
+1595092.818735: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.Table.__vector_len(int)
+1595092.818749: B|13682|Compiling
+1595092.818858: B|13682|ScopedCodeCacheWrite
+1595092.818875: B|13682|mprotect all
+1595092.818885: E|13682
+1595092.818892: B|13682|mprotect code
+1595092.818907: E|13682
+1595092.818910: E|13682
+1595092.818917: B|13682|Generate JIT debug info
+1595092.818943: E|13682
+1595092.818962: E|13682
+1595092.818975: B|13682|TrimMaps
+1595092.818984: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.819003: E|13682
+1595092.819012: E|13682
+1595092.819019: E|13682
+1595092.819242: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.MetadataItem.codepoints(int)
+1595092.819258: B|13682|Compiling
+1595092.819389: B|13682|ScopedCodeCacheWrite
+1595092.819407: B|13682|mprotect all
+1595092.819417: E|13682
+1595092.819424: B|13682|mprotect code
+1595092.819440: E|13682
+1595092.819444: E|13682
+1595092.819450: B|13682|Generate JIT debug info
+1595092.819478: E|13682
+1595092.819499: E|13682
+1595092.819512: B|13682|TrimMaps
+1595092.819522: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.819543: E|13682
+1595092.819554: E|13682
+1595092.819563: E|13682
+1595092.819587: B|13682|JIT compiling int android.util.ContainerHelpers.binarySearch(int[], int, int)
+1595092.819601: B|13682|Compiling
+1595092.819824: B|13682|ScopedCodeCacheWrite
+1595092.819841: B|13682|mprotect all
+1595092.819851: E|13682
+1595092.819858: B|13682|mprotect code
+1595092.819871: E|13682
+1595092.819903: E|13682
+1595092.819917: B|13682|Generate JIT debug info
+1595092.819944: E|13682
+1595092.819959: E|13682
+1595092.819972: B|13682|TrimMaps
+1595092.819982: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.820010: E|13682
+1595092.820020: E|13682
+1595092.820028: E|13682
+1595092.820047: B|13682|JIT compiling void androidx.emoji2.text.flatbuffer.MetadataItem.__init(int, java.nio.ByteBuffer)
+1595092.820062: B|13682|Compiling
+1595092.820142: B|13682|ScopedCodeCacheWrite
+1595092.820157: B|13682|mprotect all
+1595092.820168: E|13682
+1595092.820174: B|13682|mprotect code
+1595092.820187: E|13682
+1595092.820190: E|13682
+1595092.820197: B|13682|Generate JIT debug info
+1595092.820223: E|13682
+1595092.820241: E|13682
+1595092.820253: B|13682|TrimMaps
+1595092.820261: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.820280: E|13682
+1595092.820289: E|13682
+1595092.820298: E|13682
+1595092.820316: B|13682|JIT compiling androidx.emoji2.text.flatbuffer.MetadataList androidx.emoji2.text.MetadataRepo.getMetadataList()
+1595092.820332: B|13682|Compiling
+1595092.820413: B|13682|ScopedCodeCacheWrite
+1595092.820427: B|13682|mprotect all
+1595092.820437: E|13682
+1595092.820444: B|13682|mprotect code
+1595092.820457: E|13682
+1595092.820460: E|13682
+1595092.820466: B|13682|Generate JIT debug info
+1595092.820494: E|13682
+1595092.820512: E|13682
+1595092.820524: B|13682|TrimMaps
+1595092.820534: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.820552: E|13682
+1595092.820561: E|13682
+1595092.820572: E|13682
+1595092.820595: B|13682|JIT compiling androidx.emoji2.text.flatbuffer.MetadataItem androidx.emoji2.text.flatbuffer.MetadataItem.__assign(int, java.nio.ByteBuffer)
+1595092.820609: B|13682|Compiling
+1595092.820686: B|13682|ScopedCodeCacheWrite
+1595092.820700: B|13682|mprotect all
+1595092.820710: E|13682
+1595092.820718: B|13682|mprotect code
+1595092.820733: E|13682
+1595092.820736: E|13682
+1595092.820743: B|13682|Generate JIT debug info
+1595092.820769: E|13682
+1595092.820787: E|13682
+1595092.820799: B|13682|TrimMaps
+1595092.820808: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.820825: E|13682
+1595092.820835: E|13682
+1595092.820844: E|13682
+1595092.821401: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.MetadataItem.codepointsLength()
+1595092.821418: B|13682|Compiling
+1595092.821518: B|13682|ScopedCodeCacheWrite
+1595092.821534: B|13682|mprotect all
+1595092.821545: E|13682
+1595092.821551: B|13682|mprotect code
+1595092.821560: E|13682
+1595092.821564: E|13682
+1595092.821573: B|13682|Generate JIT debug info
+1595092.821600: E|13682
+1595092.821620: E|13682
+1595092.821633: B|13682|TrimMaps
+1595092.821643: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.821664: E|13682
+1595092.821674: E|13682
+1595092.821685: E|13682
+1595092.821703: B|13682|JIT compiling int androidx.emoji2.text.EmojiMetadata.getCodepointAt(int)
+1595092.821715: B|13682|Compiling
+1595092.821801: B|13682|ScopedCodeCacheWrite
+1595092.821816: B|13682|mprotect all
+1595092.821826: E|13682
+1595092.821833: B|13682|mprotect code
+1595092.821846: E|13682
+1595092.821849: E|13682
+1595092.821856: B|13682|Generate JIT debug info
+1595092.821882: E|13682
+1595092.821900: E|13682
+1595092.821913: B|13682|TrimMaps
+1595092.821921: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.821935: E|13682
+1595092.821945: E|13682
+1595092.821955: E|13682
+1595092.821975: B|13682|JIT compiling int[] com.android.internal.util.GrowingArrayUtils.insert(int[], int, int, int)
+1595092.821988: B|13682|Compiling
+1595092.822203: B|13682|ScopedCodeCacheWrite
+1595092.822219: B|13682|mprotect all
+1595092.822230: E|13682
+1595092.822238: B|13682|mprotect code
+1595092.822245: E|13682
+1595092.822248: E|13682
+1595092.822261: B|13682|Generate JIT debug info
+1595092.822289: E|13682
+1595092.822308: E|13682
+1595092.822321: B|13682|TrimMaps
+1595092.822330: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.822356: E|13682
+1595092.822365: E|13682
+1595092.822375: E|13682
+1595092.822396: B|13682|JIT compiling int androidx.emoji2.text.EmojiMetadata.getCodepointsLength()
+1595092.822412: B|13682|Compiling
+1595092.822496: B|13682|ScopedCodeCacheWrite
+1595092.822511: B|13682|mprotect all
+1595092.822521: E|13682
+1595092.822527: B|13682|mprotect code
+1595092.822540: E|13682
+1595092.822544: E|13682
+1595092.822550: B|13682|Generate JIT debug info
+1595092.822577: E|13682
+1595092.822596: E|13682
+1595092.822607: B|13682|TrimMaps
+1595092.822616: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.822641: E|13682
+1595092.822652: E|13682
+1595092.822662: E|13682
+1595092.822682: B|13682|JIT compiling int androidx.emoji2.text.flatbuffer.MetadataItem.id()
+1595092.822695: B|13682|Compiling
+1595092.822812: B|13682|ScopedCodeCacheWrite
+1595092.822827: B|13682|mprotect all
+1595092.822837: E|13682
+1595092.822844: B|13682|mprotect code
+1595092.822857: E|13682
+1595092.822860: E|13682
+1595092.822866: B|13682|Generate JIT debug info
+1595092.822892: E|13682
+1595092.822910: E|13682
+1595092.822923: B|13682|TrimMaps
+1595092.822931: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.822955: E|13682
+1595092.822965: E|13682
+1595092.822976: E|13682
+1595092.822994: B|13682|JIT compiling java.lang.Object[] com.android.internal.util.GrowingArrayUtils.insert(java.lang.Object[], int, int, java.lang.Object)
+1595092.823006: B|13682|Compiling
+1595092.823273: B|13682|ScopedCodeCacheWrite
+1595092.823290: B|13682|mprotect all
+1595092.823300: E|13682
+1595092.823321: B|13682|mprotect code
+1595092.823340: E|13682
+1595092.823345: E|13682
+1595092.823358: B|13682|Generate JIT debug info
+1595092.823383: E|13682
+1595092.823402: E|13682
+1595092.823415: B|13682|TrimMaps
+1595092.823425: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.823453: E|13682
+1595092.823464: E|13682
+1595092.823474: E|13682
+1595092.824093: B|13682|JIT compiling java.lang.Object[] com.android.internal.util.ArrayUtils.newUnpaddedObjectArray(int)
+1595092.824110: B|13682|Compiling
+1595092.824219: B|13682|ScopedCodeCacheWrite
+1595092.824235: B|13682|mprotect all
+1595092.824246: E|13682
+1595092.824252: B|13682|mprotect code
+1595092.824265: E|13682
+1595092.824269: E|13682
+1595092.824275: B|13682|Generate JIT debug info
+1595092.824295: E|13682
+1595092.824315: E|13682
+1595092.824323: B|13682|TrimMaps
+1595092.824332: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.824349: E|13682
+1595092.824358: E|13682
+1595092.824362: E|13682
+1595092.824641: B|13682|JIT compiling void android.util.SparseArray.<init>(int)
+1595092.824656: B|13682|Compiling
+1595092.824832: B|13682|ScopedCodeCacheWrite
+1595092.824840: B|13682|mprotect all
+1595092.824850: E|13682
+1595092.824857: B|13682|mprotect code
+1595092.824864: E|13682
+1595092.824867: E|13682
+1595092.824873: B|13682|Generate JIT debug info
+1595092.824898: E|13682
+1595092.824911: E|13682
+1595092.824916: B|13682|TrimMaps
+1595092.824920: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.824943: E|13682
+1595092.824949: E|13682
+1595092.824953: E|13682
+1595092.824991: B|13682|JIT compiling void android.util.SparseArray.put(int, java.lang.Object)
+1595092.825006: B|13682|Compiling
+1595092.825335: B|13682|ScopedCodeCacheWrite
+1595092.825360: B|13682|mprotect all
+1595092.825371: E|13682
+1595092.825380: B|13682|mprotect code
+1595092.825388: E|13682
+1595092.825391: E|13682
+1595092.825398: B|13682|Generate JIT debug info
+1595092.825419: E|13682
+1595092.825434: E|13682
+1595092.825440: B|13682|TrimMaps
+1595092.825444: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.825469: E|13682
+1595092.825473: E|13682
+1595092.825478: E|13682
+1595092.825491: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo$Node.<init>(int)
+1595092.825500: B|13682|Compiling
+1595092.825604: B|13682|ScopedCodeCacheWrite
+1595092.825611: B|13682|mprotect all
+1595092.825622: E|13682
+1595092.825628: B|13682|mprotect code
+1595092.825636: E|13682
+1595092.825639: E|13682
+1595092.825645: B|13682|Generate JIT debug info
+1595092.825664: E|13682
+1595092.825677: E|13682
+1595092.825683: B|13682|TrimMaps
+1595092.825686: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.825708: E|13682
+1595092.825724: E|13682
+1595092.825730: E|13682
+1595092.825741: B|13682|JIT compiling void androidx.emoji2.text.EmojiMetadata.<init>(androidx.emoji2.text.MetadataRepo, int)
+1595092.825755: B|13682|Compiling
+1595092.825847: B|13682|ScopedCodeCacheWrite
+1595092.825862: B|13682|mprotect all
+1595092.825872: E|13682
+1595092.825880: B|13682|mprotect code
+1595092.825888: E|13682
+1595092.825891: E|13682
+1595092.825898: B|13682|Generate JIT debug info
+1595092.825919: E|13682
+1595092.825931: E|13682
+1595092.825937: B|13682|TrimMaps
+1595092.825940: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.825960: E|13682
+1595092.825965: E|13682
+1595092.825970: E|13682
+1595092.825983: B|13682|JIT compiling int androidx.emoji2.text.EmojiMetadata.getId()
+1595092.825990: B|13682|Compiling
+1595092.826074: B|13682|ScopedCodeCacheWrite
+1595092.826081: B|13682|mprotect all
+1595092.826090: E|13682
+1595092.826097: B|13682|mprotect code
+1595092.826104: E|13682
+1595092.826108: E|13682
+1595092.826114: B|13682|Generate JIT debug info
+1595092.826134: E|13682
+1595092.826146: E|13682
+1595092.826151: B|13682|TrimMaps
+1595092.826156: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.826173: E|13682
+1595092.826178: E|13682
+1595092.826183: E|13682
+1595092.826197: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo$Node.put(androidx.emoji2.text.EmojiMetadata, int, int)
+1595092.826205: B|13682|Compiling
+1595092.826397: B|13682|ScopedCodeCacheWrite
+1595092.826416: B|13682|mprotect all
+1595092.826427: E|13682
+1595092.826434: B|13682|mprotect code
+1595092.826441: E|13682
+1595092.826445: E|13682
+1595092.826451: B|13682|Generate JIT debug info
+1595092.828255: E|13682
+1595092.828292: E|13682
+1595092.828299: B|13682|TrimMaps
+1595092.828304: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.828333: E|13682
+1595092.828347: E|13682
+1595092.828353: E|13682
+1595092.828375: B|13682|JIT compiling java.lang.Object android.util.SparseArray.get(int, java.lang.Object)
+1595092.828391: B|13682|Compiling
+1595092.828575: B|13682|ScopedCodeCacheWrite
+1595092.828593: B|13682|mprotect all
+1595092.828602: E|13682
+1595092.828610: B|13682|mprotect code
+1595092.828623: E|13682
+1595092.828626: E|13682
+1595092.828633: B|13682|Generate JIT debug info
+1595092.828659: E|13682
+1595092.828678: E|13682
+1595092.828690: B|13682|TrimMaps
+1595092.828713: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.828732: E|13682
+1595092.828737: E|13682
+1595092.828741: E|13682
+1595092.828753: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo.put(androidx.emoji2.text.EmojiMetadata)
+1595092.828762: B|13682|Compiling
+1595092.828940: B|13682|ScopedCodeCacheWrite
+1595092.828948: B|13682|mprotect all
+1595092.828958: E|13682
+1595092.828980: B|13682|mprotect code
+1595092.828991: E|13682
+1595092.828995: E|13682
+1595092.829001: B|13682|Generate JIT debug info
+1595092.829020: E|13682
+1595092.829046: E|13682
+1595092.829052: B|13682|TrimMaps
+1595092.829056: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.829076: E|13682
+1595092.829081: E|13682
+1595092.829085: E|13682
+1595092.829487: B|13682|JIT compiling void java.lang.System.arraycopy(int[], int, int[], int, int)
+1595092.829529: B|13682|Compiling
+1595092.831370: B|13682|ScopedCodeCacheWrite
+1595092.831406: B|13682|mprotect all
+1595092.831426: E|13682
+1595092.831439: B|13682|mprotect code
+1595092.831453: E|13682
+1595092.831460: E|13682
+1595092.831472: B|13682|Generate JIT debug info
+1595092.831531: E|13682
+1595092.831579: E|13682
+1595092.831605: B|13682|TrimMaps
+1595092.831627: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.831691: E|13682
+1595092.831720: E|13682
+1595092.831747: E|13682
+1595092.831786: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo.constructIndex(androidx.emoji2.text.flatbuffer.MetadataList)
+1595092.831815: B|13682|Compiling
+1595092.832235: B|13682|ScopedCodeCacheWrite
+1595092.832269: B|13682|mprotect all
+1595092.832288: E|13682
+1595092.832300: B|13682|mprotect code
+1595092.832313: E|13682
+1595092.832321: E|13682
+1595092.832332: B|13682|Generate JIT debug info
+1595092.832392: E|13682
+1595092.832414: E|13682
+1595092.832452: B|13682|TrimMaps
+1595092.832461: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.832511: E|13682
+1595092.832521: E|13682
+1595092.832531: E|13682
+1595092.832552: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo$Node.<init>()
+1595092.832583: B|13682|Compiling
+1595092.832725: B|13682|ScopedCodeCacheWrite
+1595092.832761: B|13682|mprotect all
+1595092.832779: E|13682
+1595092.832790: B|13682|mprotect code
+1595092.832804: E|13682
+1595092.832811: E|13682
+1595092.832822: B|13682|Generate JIT debug info
+1595092.832862: E|13682
+1595092.832882: E|13682
+1595092.832892: B|13682|TrimMaps
+1595092.832899: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.832922: E|13682
+1595092.832932: E|13682
+1595092.832940: E|13682
+1595092.832962: B|13682|JIT compiling dalvik.system.VMRuntime dalvik.system.VMRuntime.getRuntime()
+1595092.832975: B|13682|Compiling
+1595092.833097: B|13682|ScopedCodeCacheWrite
+1595092.833132: B|13682|mprotect all
+1595092.833150: E|13682
+1595092.833161: B|13682|mprotect code
+1595092.833174: E|13682
+1595092.833181: E|13682
+1595092.833193: B|13682|Generate JIT debug info
+1595092.833235: E|13682
+1595092.833271: E|13682
+1595092.833297: B|13682|TrimMaps
+1595092.833320: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.833344: E|13682
+1595092.833372: E|13682
+1595092.833385: E|13682
+1595092.833425: B|13682|JIT compiling androidx.emoji2.text.MetadataRepo$Node androidx.emoji2.text.MetadataRepo$Node.get(int)
+1595092.833455: B|13682|Compiling
+1595092.833747: B|13682|ScopedCodeCacheWrite
+1595092.833781: B|13682|mprotect all
+1595092.833799: E|13682
+1595092.833811: B|13682|mprotect code
+1595092.833824: E|13682
+1595092.833832: E|13682
+1595092.833846: B|13682|Generate JIT debug info
+1595092.833901: E|13682
+1595092.833939: E|13682
+1595092.833964: B|13682|TrimMaps
+1595092.833986: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.834011: E|13682
+1595092.834036: E|13682
+1595092.834049: E|13682
+1595092.834087: B|13682|JIT compiling java.lang.Object android.util.SparseArray.get(int)
+1595092.834116: B|13682|Compiling
+1595092.834262: B|13682|ScopedCodeCacheWrite
+1595092.834295: B|13682|mprotect all
+1595092.834312: E|13682
+1595092.834323: B|13682|mprotect code
+1595092.834337: E|13682
+1595092.834344: E|13682
+1595092.834356: B|13682|Generate JIT debug info
+1595092.834394: E|13682
+1595092.834432: E|13682
+1595092.834443: B|13682|TrimMaps
+1595092.834453: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.834497: E|13682
+1595092.834524: E|13682
+1595092.834552: E|13682
+1595092.835337: B|13682|JIT compiling java.lang.Object androidx.core.util.Preconditions.checkNotNull(java.lang.Object, java.lang.Object)
+1595092.835377: B|13682|Compiling
+1595092.835626: B|13682|ScopedCodeCacheWrite
+1595092.835660: B|13682|mprotect all
+1595092.835678: E|13682
+1595092.835689: B|13682|mprotect code
+1595092.835703: E|13682
+1595092.835710: E|13682
+1595092.835722: B|13682|Generate JIT debug info
+1595092.835778: E|13682
+1595092.835815: E|13682
+1595092.835840: B|13682|TrimMaps
+1595092.835862: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.836183: E|13682
+1595092.836201: E|13682
+1595092.836211: E|13682
+1595092.836236: B|13682|JIT compiling void androidx.core.util.Preconditions.checkArgument(boolean, java.lang.Object)
+1595092.836270: B|13682|Compiling
+1595092.836434: B|13682|ScopedCodeCacheWrite
+1595092.836444: B|13682|mprotect all
+1595092.836456: E|13682
+1595092.836464: B|13682|mprotect code
+1595092.836473: E|13682
+1595092.836477: E|13682
+1595092.836485: B|13682|Generate JIT debug info
+1595092.836511: E|13682
+1595092.836526: E|13682
+1595092.836534: B|13682|TrimMaps
+1595092.836538: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.836566: E|13682
+1595092.836574: E|13682
+1595092.836580: E|13682
+1595092.837854: B|13682|JIT compiling int[] com.android.internal.util.ArrayUtils.newUnpaddedIntArray(int)
+1595092.837888: B|13682|Compiling
+1595092.838093: B|13682|ScopedCodeCacheWrite
+1595092.838102: B|13682|mprotect all
+1595092.838119: E|13682
+1595092.838131: B|13682|mprotect code
+1595092.838141: E|13682
+1595092.838145: E|13682
+1595092.838153: B|13682|Generate JIT debug info
+1595092.838185: E|13682
+1595092.838202: E|13682
+1595092.838222: B|13682|TrimMaps
+1595092.838227: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.838249: E|13682
+1595092.838255: E|13682
+1595092.838264: E|13682
+1595092.838284: B|13682|JIT compiling java.lang.Object[] com.android.internal.util.ArrayUtils.newUnpaddedArray(java.lang.Class, int)
+1595092.838293: B|13682|Compiling
+1595092.838416: B|13682|ScopedCodeCacheWrite
+1595092.838425: B|13682|mprotect all
+1595092.838437: E|13682
+1595092.838446: B|13682|mprotect code
+1595092.838455: E|13682
+1595092.838459: E|13682
+1595092.838467: B|13682|Generate JIT debug info
+1595092.838491: E|13682
+1595092.838507: E|13682
+1595092.838513: B|13682|TrimMaps
+1595092.838517: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.838535: E|13682
+1595092.838540: E|13682
+1595092.838546: E|13682
+1595092.840209: B|13682|JIT compiling int com.android.internal.util.GrowingArrayUtils.growSize(int)
+1595092.840243: B|13682|Compiling
+1595092.840369: B|13682|ScopedCodeCacheWrite
+1595092.840377: B|13682|mprotect all
+1595092.840391: E|13682
+1595092.840401: B|13682|mprotect code
+1595092.840411: E|13682
+1595092.840414: E|13682
+1595092.840424: B|13682|Generate JIT debug info
+1595092.840456: E|13682
+1595092.840471: E|13682
+1595092.840479: B|13682|TrimMaps
+1595092.840485: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.840502: E|13682
+1595092.840508: E|13682
+1595092.840513: E|13682
+1595092.844153: E|13682
+1595092.844176: E|13682
+1595092.844170: B|13682|JIT compiling void androidx.emoji2.text.MetadataRepo.constructIndex(androidx.emoji2.text.flatbuffer.MetadataList)
+1595092.844188: B|13682|Compiling
+1595092.844206: B|13682|VerifyClass androidx.emoji2.text.EmojiProcessor
+1595092.844520: B|13682|ScopedCodeCacheWrite
+1595092.844546: B|13682|mprotect all
+1595092.844561: E|13682
+1595092.844571: B|13682|mprotect code
+1595092.844581: E|13682
+1595092.844585: E|13682
+1595092.844594: B|13682|Generate JIT debug info
+1595092.844628: E|13682
+1595092.844646: E|13682
+1595092.844652: B|13682|TrimMaps
+1595092.844657: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.844680: E|13682
+1595092.844689: E|13682
+1595092.844695: E|13682
+1595092.844965: E|13682
+1595092.845010: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$SpanFactory
+1595092.845084: E|13682
+1595092.845182: B|13682|VerifyClass androidx.emoji2.text.EmojiCompat$ListenerDispatcher
+1595092.845261: E|13682
+1595092.845724: B|13682|VerifyClass androidx.emoji2.text.EmojiProcessor$ProcessorSm
+1595092.845852: E|13682
+1595092.846678: B|13682|notifyFramePending
+1595092.846702: E|13682
+1595092.849026: B|13682|Choreographer#doFrame
+1595092.849243: B|13682|input
+1595092.849337: E|13682
+1595092.849389: B|13682|traversal
+1595092.849898: B|13682|measure
+1595092.849958: B|13682|Measure Message Send
+1595092.849981: E|13682
+1595092.853793: E|13682
+1595092.853863: B|13682|layout
+1595092.854362: E|13682
+1595092.854488: B|13682|draw
+1595092.854536: B|13682|Record View#draw()
+1595092.855489: E|13682
+1595092.855598: B|13682|JIT compiling int java.lang.String.indexOf(java.lang.String)
+1595092.855623: B|13682|Compiling
+1595092.855708: B|13682|DrawFrame
+1595092.855739: B|13682|query
+1595092.855964: E|13682
+1595092.855984: B|13682|query
+1595092.856048: B|13682|ScopedCodeCacheWrite
+1595092.856091: B|13682|mprotect all
+1595092.856125: E|13682
+1595092.856150: E|13682
+1595092.856181: B|13682|syncFrameState
+1595092.856195: B|13682|prepareTree
+1595092.856199: B|13682|mprotect code
+1595092.856223: E|13682
+1595092.856231: E|13682
+1595092.856249: B|13682|Generate JIT debug info
+1595092.856257: E|13682
+1595092.856268: E|13682
+1595092.856297: B|13682|query
+1595092.856316: E|13682
+1595092.856324: B|13682|query
+1595092.856327: E|13682
+1595092.856331: E|13682
+1595092.856341: B|13682|query
+1595092.856347: E|13682
+1595092.856353: B|13682|query
+1595092.856358: E|13682
+1595092.856362: B|13682|query
+1595092.856366: E|13682
+1595092.856373: B|13682|setBuffersDimensions
+1595092.856378: E|13682
+1595092.856385: B|13682|dequeueBuffer
+1595092.856388: E|13682
+1595092.856400: B|13682|TrimMaps
+1595092.856408: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595092.856443: E|13682
+1595092.856476: E|13682
+1595092.856514: E|13682
+1595092.856556: E|13682
+1595092.856621: B|13682|HWC release fence 2 has signaled
+1595092.856645: E|13682
+1595092.857163: B|13682|importBuffer
+1595092.857468: E|13682
+1595092.857514: E|13682
+1595092.857524: B|13682|query
+1595092.857655: E|13682
+1595092.857908: E|13682
+1595092.857984: E|13682
+1595092.858227: B|13682|eglBeginFrame
+1595092.858251: E|13682
+1595092.858422: B|13682|flush commands
+1595092.858720: E|13682
+1595092.858757: B|13682|eglSwapBuffersWithDamageKHR
+1595092.858783: B|13682|setSurfaceDamage
+1595092.858799: E|13682
+1595092.859258: B|13682|setBuffersTransform
+1595092.859288: E|13682
+1595092.859332: B|13682|queueBuffer
+1595092.860791: B|13682|GPU completion fence 2 has signaled
+1595092.860826: E|13682
+1595092.860836: E|13682
+1595092.860890: E|13682
+1595092.860913: B|13682|query
+1595092.860924: E|13682
+1595092.860939: B|13682|query
+1595092.860944: E|13682
+1595092.860988: E|13682
+1595093.221324: B|13682|transact[android.content.pm.IPackageManager:13]
+1595093.222184: E|13682
+1595093.222700: B|13682|JIT compiling java.lang.String android.os.Parcel.readString()
+1595093.222803: B|13682|Compiling
+1595093.223509: B|13682|ScopedCodeCacheWrite
+1595093.223560: B|13682|mprotect all
+1595093.223598: E|13682
+1595093.223618: B|13682|mprotect code
+1595093.223636: E|13682
+1595093.223644: E|13682
+1595093.223693: B|13682|Generate JIT debug info
+1595093.223818: E|13682
+1595093.223933: E|13682
+1595093.223971: B|13682|TrimMaps
+1595093.223984: B|13682|virtual void art::MemMapArenaPool::TrimMaps()
+1595093.224071: E|13682
+1595093.224141: E|13682
+1595093.224158: E|13682
+1595093.804933: B|13682|providerRemove
+1595093.805549: B|13682|transact[58]
+1595093.805726: E|13682
+1595093.805895: E|13682
+1595094.307547: B|13682|markFrameSchedEnd
+1595094.307822: E|13682
+1595096.383555: B|13682|ShaderCache::saveToDiskLocked
+1595096.384248: E|13682
+1595099.421776: B|13682|processInputEventForCompatibility
+1595099.421870: E|13682
+1595099.422208: B|13682|transact[android.content.pm.IPackageManager:109]
+1595099.422635: E|13682
+1595099.422889: B|13682|DeliverInput Send
+1595099.422955: E|13682
+1595099.424982: B|13682|transact[:1]
+1595099.425368: E|13682
+1595099.426352: B|13682|transact[android.aps.IHwApsManager:10]
+1595099.426656: E|13682
+1595099.426826: B|13682|transact[android.aps.IHwApsManager:11]
+1595099.427079: E|13682
+1595099.428343: B|13682|transact[android.aps.IHwApsManager:10]
+1595099.428797: E|13682
+1595099.428975: B|13682|transact[android.aps.IHwApsManager:11]
+1595099.429284: E|13682
+1595099.430360: B|13682|transact[:1]
+1595099.430641: E|13682
+1595099.432092: B|13682|transact[android.content.IContentProvider:21]
+1595099.432630: E|13682
+1595099.437939: B|13682|Choreographer#doFrame
+1595099.438075: B|13682|input
+1595099.438223: B|13682|processInputEventForCompatibility
+1595099.438272: E|13682
+1595099.438359: B|13682|DeliverInput Send
+1595099.438400: E|13682
+1595099.439220: E|13682
+1595099.439337: E|13682
+1595099.453980: B|13682|Choreographer#doFrame
+1595099.454114: B|13682|input
+1595099.454175: E|13682
+1595099.454238: E|13682
+1595099.470004: B|13682|Choreographer#doFrame
+1595099.470135: B|13682|input
+1595099.470309: B|13682|processInputEventForCompatibility
+1595099.470359: E|13682
+1595099.470452: B|13682|DeliverInput Send
+1595099.470485: E|13682
+1595099.471326: E|13682
+1595099.471438: E|13682
+1595099.486138: B|13682|Choreographer#doFrame
+1595099.486259: B|13682|input
+1595099.486393: B|13682|processInputEventForCompatibility
+1595099.486443: E|13682
+1595099.486527: B|13682|DeliverInput Send
+1595099.486563: E|13682
+1595099.487356: E|13682
+1595099.487460: E|13682
+1595099.502204: B|13682|Choreographer#doFrame
+1595099.502323: B|13682|input
+1595099.502574: E|13682
+1595099.502650: E|13682
+1595099.518273: B|13682|Choreographer#doFrame
+1595099.518385: B|13682|input
+1595099.518509: B|13682|processInputEventForCompatibility
+1595099.518554: E|13682
+1595099.518631: B|13682|DeliverInput Send
+1595099.518665: E|13682
+1595099.519424: E|13682
+1595099.519525: E|13682
+1595099.534374: B|13682|Choreographer#doFrame
+1595099.534485: B|13682|input
+1595099.534556: E|13682
+1595099.534620: E|13682
+1595099.550124: B|13682|Choreographer#doFrame
+1595099.550213: B|13682|input
+1595099.550314: B|13682|processInputEventForCompatibility
+1595099.550394: E|13682
+1595099.550476: B|13682|DeliverInput Send
+1595099.550514: E|13682
+1595099.551257: E|13682
+1595099.551365: E|13682
+1595099.551587: B|13682|processInputEventForCompatibility
+1595099.551639: E|13682
+1595099.551708: B|13682|DeliverInput Send
+1595099.551752: E|13682
+1595099.552060: B|13682|markFrameSchedStart
+1595099.552189: E|13682
+1595099.552960: B|13682|transact[android.aps.IHwApsManager:21]
+1595099.553797: E|13682
+1595099.556784: B|13682|transact[android.content.IContentProvider:21]
+1595099.557716: E|13682
+1595099.558894: B|13682|B:MainActivity:onCreate$lambda-0
+3851|TRACE_END|1595099558995125|13682|2147483647|2|18316
